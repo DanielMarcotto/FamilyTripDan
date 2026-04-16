@@ -1,0 +1,142 @@
+{
+  "expo": {
+    "name": "FamilyTrip",
+    "slug": "family-trip",
+    "version": "1.0.12",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "app",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "appInterfaceStyle": "automatic",
+      "newArchEnabled": true,
+      "runtimeVersion": {
+        "policy": "sdkVersion"
+      },
+      "buildNumber": "25.11.12.13",
+      "bundleIdentifier": "come.familytrip.familytrip",
+      "usesAppleSignIn": true,
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSLocationWhenInUseUsageDescription": "FamilyTrip uses your location to display your current position on the map, find nearby points of interest, and notify you when you're near interesting places during your family trips.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "FamilyTrip needs continuous access to your location to send you proximity notifications when you're near points of interest, even when the app is in the background. This helps you discover interesting places around you during your family trips.",
+        "NSLocationAlwaysUsageDescription": "FamilyTrip needs continuous access to your location to send you proximity notifications when you're near points of interest, even when the app is in the background. This helps you discover interesting places around you during your family trips.",
+        "NSUserTrackingUsageDescription": "FamilyTrip would like to access your device's advertising identifier to provide you with personalized content and improve your experience. For example, this helps us show you relevant destinations and activities based on your interests and usage patterns.",
+        "UIUserInterfaceStyle": "Automatic",
+        "UINavigationBarScrollEdgeAppearance": "transparent",
+        "UITabBarScrollEdgeAppearance": "transparent",
+        "UIBlurEffectStyle": "systemUltraThinMaterial",
+        "UIBackgroundModes": [
+          "remote-notification",
+          "location"
+        ]
+      },
+      "appleTeamId": "8Z69NK39Q7",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#0fb2b1"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "app.familytrip.xyz",
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "RECEIVE_BOOT_COMPLETED",
+        "VIBRATE",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION",
+        "FOREGROUND_SERVICE",
+        "FOREGROUND_SERVICE_LOCATION"
+      ],
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCchQyRCdQt2Js4OVomB4n8pUf5EI6WOgc"
+        }
+      },
+      "versionCode": 10012
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ],
+      [
+        "expo-apple-authentication"
+      ],
+      "expo-secure-store",
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "iosUrlScheme": "com.googleusercontent.apps.684414254538-iea4399buqu70spud45kkq457i5mpckv"
+        }
+      ],
+      "expo-localization",
+      "expo-web-browser",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/images/ico-mono.png",
+          "color": "#FF7A00",
+          "sounds": []
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "FamilyTrip needs continuous access to your location to send you proximity notifications when you're near points of interest, even when the app is in the background. This helps you discover interesting places around you during your family trips.",
+          "locationWhenInUsePermission": "FamilyTrip uses your location to display your current position on the map, find nearby points of interest, and notify you when you're near interesting places during your family trips.",
+          "isIosBackgroundLocationEnabled": true,
+          "isAndroidBackgroundLocationEnabled": true,
+          "isAndroidForegroundServiceEnabled": true
+        }
+      ],
+      "@react-native-firebase/app",
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static",
+            "buildReactNativeFromSource": true,
+            "podfileProperties": {
+              "use_modular_headers!": true
+            }
+          }
+        }
+      ],
+      "./plugins/with-rnfb-podfile-fix.js",
+      "./plugins/with-android-local-properties.js",
+      [
+        "expo-tracking-transparency",
+        {
+          "userTrackingPermission": "FamilyTrip would like to access your device's advertising identifier to provide you with personalized content and improve your experience. For example, this helps us show you relevant destinations and activities based on your interests and usage patterns."
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "4ee3e469-2f5e-4ce5-ac13-5f0ef28241fa"
+      }
+    },
+    "owner": "dreaminglab"
+  }
+}

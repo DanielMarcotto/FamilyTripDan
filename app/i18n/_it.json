@@ -1,0 +1,51 @@
+{
+  "common": {
+    "id": "it"
+  },
+
+  "menu": {
+    "home": "Home",
+    "fridge": "Frigorifero",
+    "settings": "Impostazioni"
+  },
+
+  "home": {
+    "welcome": "Ciao",
+    "hero": "Cosa cuciniamo oggi?",
+    "itemsLeft": "Prodotti in frigo",
+    "expiring": "In scadenza",
+    "expired": "Prodotti scaduti",
+    "suggest": "Suggerisci",
+    "groceries": "Spesa",
+    "chatboxPlaceholder": "Cosa vorresti preparare?",
+    "selectIngredients": "Seleziona ingredienti"
+  },
+
+  "settings": {
+    "memberSince": "Membro dal",
+    "general": "Generale",
+    "info": "Informazioni",
+    "account": "Account",
+    "security": "Sicurezza",
+    "subscription": "Abbonamento",
+    "foodprefs": "Preferenze alimentari",
+    "haptics": "Feedback tattile",
+    "notifications": "Notifiche",
+    "language": "Lingua",
+    "t&s": "Termini e Condizioni",
+    "privacypolicy": "Informativa sulla privacy",
+    "version": "Versione",
+    "logout": "Esci",
+    "deleteAccount": "Elimina Account",
+    "deleteAccountTitle": "Elimina Account",
+    "deleteAccountMessage": "Sei sicuro di voler eliminare il tuo account? Questa azione è permanente e non può essere annullata. Tutti i tuoi dati verranno eliminati.",
+    "deleteAccountConfirm": "Elimina",
+    "deleteAccountCancel": "Annulla",
+    "deleteAccountSuccess": "Account eliminato",
+    "deleteAccountSuccessMessage": "Il tuo account è stato eliminato con successo",
+    "deleteAccountError": "Errore",
+    "deleteAccountErrorMessage": "Impossibile eliminare l'account",
+    "deleteAccountDangerZone": "Zona Pericolosa",
+    "deleteAccountDescription": "Eliminando il tuo account, tutti i tuoi dati verranno rimossi permanentemente. Questa azione non può essere annullata."
+  }
+}

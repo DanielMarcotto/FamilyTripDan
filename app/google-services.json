@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607892512934",
+    "project_id": "familytrip-6a128",
+    "storage_bucket": "familytrip-6a128.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607892512934:android:dcbf6412b425f911f59467",
+        "android_client_info": {
+          "package_name": "app.familytrip.xyz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ_bqTXMxRPeNZdx2xG-bziCKGcpmYiTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

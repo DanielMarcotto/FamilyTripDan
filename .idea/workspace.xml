@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb9e5a00-d672-4ddc-8f0e-25ec3a8ef549" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/app/(tabs)/map.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/react-native.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/types/auth.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/types/auth.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/(home)/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/(tabs)/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/(home)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/(tabs)/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/(home)/settings.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/(tabs)/settings.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/auth/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/auth/login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/auth/register.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/auth/register.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/settings/language.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings/language.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/atoms/blur/BlurDrawer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/atoms/buttons/ButtonIcon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/atoms/buttons/ButtonIcon.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/atoms/inputs/Input.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/atoms/inputs/Input.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/atoms/inputs/InputHidden.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/atoms/inputs/InputHidden.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/atoms/loaders/SpinnerSmall.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/atoms/loaders/SpinnerSmall.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/templates/Page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/templates/Page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/context/AuthContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/context/AuthContext.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/context/NotificationsContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/context/NotificationsContext.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/context/SubcriptionsContext.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/i18n/i18n.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/i18n/i18n.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/services/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/middleware/authentication.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/middleware/authentication.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/routes/oauth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/routes/oauth.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/node_modules/@callstack/liquid-glass/lib/module/LiquidGlassViewContainerNativeComponent.ts" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/app/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="34vouDPgpzjDTNiGkdk5qSBJpzN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/federico/Desktop/Projects/FamilyTrip/app/app/(tabs)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "nx.console.mcp.server.install.notification.hide": "true",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/federico/Desktop/Projects/FamilyTrip/server/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/app/(tabs)" />
+      <recent name="$PROJECT_DIR$/app/types" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/images" />
+      <recent name="$PROJECT_DIR$/app/assets/pictures" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-WS-252.26199.162" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb9e5a00-d672-4ddc-8f0e-25ec3a8ef549" name="Changes" comment="" />
+      <created>1762103626403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762103626403</updated>
+      <workItem from="1762103627795" duration="5359000" />
+      <workItem from="1762312193804" duration="1546000" />
+      <workItem from="1762440314543" duration="1114000" />
+      <workItem from="1762539236045" duration="1649000" />
+      <workItem from="1762580696985" duration="664000" />
+      <workItem from="1762581401572" duration="109000" />
+      <workItem from="1762952737746" duration="1692000" />
+      <workItem from="1762957587771" duration="14910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/app/auth/login.tsx</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/components/atoms/loaders/Screen.tsx</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/components/organisms/chat/ChatStarter.tsx</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/services/api.ts</url>
+          <line>61</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/services/api.ts</url>
+          <line>78</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/app/(tabs)/_layout.tsx</url>
+          <line>48</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

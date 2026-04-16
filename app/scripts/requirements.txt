@@ -1,0 +1,2 @@
+# Dipendenze per gli script Python (preview icone, ecc.)
+Pillow>=10.0.0

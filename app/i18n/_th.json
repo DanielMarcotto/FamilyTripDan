@@ -1,0 +1,51 @@
+{
+  "common": {
+    "id": "th"
+  },
+
+  "menu": {
+    "home": "หน้าแรก",
+    "fridge": "ตู้เย็น",
+    "settings": "การตั้งค่า"
+  },
+
+  "home": {
+    "welcome": "สวัสดี",
+    "hero": "วันนี้เราจะทำอาหารอะไรดี?",
+    "itemsLeft": "ของในตู้เย็น",
+    "expiring": "ใกล้หมดอายุ",
+    "expired": "หมดอายุแล้ว",
+    "suggest": "แนะนำ",
+    "groceries": "ของชำ",
+    "chatboxPlaceholder": "คุณอยากเตรียมอะไร?",
+    "selectIngredients": "เลือกส่วนผสม"
+  },
+
+  "settings": {
+    "memberSince": "สมาชิกตั้งแต่",
+    "general": "ทั่วไป",
+    "info": "ข้อมูล",
+    "account": "บัญชี",
+    "security": "ความปลอดภัย",
+    "subscription": "การสมัครสมาชิก",
+    "foodprefs": "ความชอบด้านอาหาร",
+    "haptics": "การสั่น",
+    "notifications": "การแจ้งเตือน",
+    "language": "ภาษา",
+    "t&s": "ข้อกำหนดและเงื่อนไข",
+    "privacypolicy": "นโยบายความเป็นส่วนตัว",
+    "version": "เวอร์ชัน",
+    "logout": "ออกจากระบบ",
+    "deleteAccount": "ลบบัญชี",
+    "deleteAccountTitle": "ลบบัญชี",
+    "deleteAccountMessage": "คุณแน่ใจหรือไม่ว่าต้องการลบบัญชีของคุณ? การกระทำนี้เป็นแบบถาวรและไม่สามารถยกเลิกได้ ข้อมูลทั้งหมดของคุณจะถูกลบ",
+    "deleteAccountConfirm": "ลบ",
+    "deleteAccountCancel": "ยกเลิก",
+    "deleteAccountSuccess": "ลบบัญชีสำเร็จ",
+    "deleteAccountSuccessMessage": "บัญชีของคุณถูกลบเรียบร้อยแล้ว",
+    "deleteAccountError": "ข้อผิดพลาด",
+    "deleteAccountErrorMessage": "ไม่สามารถลบบัญชีได้",
+    "deleteAccountDangerZone": "โซนอันตราย",
+    "deleteAccountDescription": "การลบบัญชีของคุณ ข้อมูลทั้งหมดของคุณจะถูกลบอย่างถาวร การกระทำนี้ไม่สามารถยกเลิกได้"
+  }
+}

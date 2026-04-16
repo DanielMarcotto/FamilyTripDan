@@ -1,0 +1,824 @@
+[
+  {
+    "id": "garda_lombardia_passeggiata_sirmione_famiglia",
+    "title": "Passeggiata a Sirmione con bambini",
+    "destination_id": "lago_di_garda_lombardia",
+    "age_range": "2-14",
+    "duration_hours": 2.5,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "walk",
+      "lake",
+      "culture"
+    ],
+    "description": "Percorso a piedi tra castello, area archeologica e parco giochi sul lago a Sirmione, pensato per famiglie con bambini.",
+    "stops": [
+      {
+        "poi_id": "garda-lombardia-castello-scaligero-di-sirmione"
+      },
+      {
+        "poi_id": "garda-lombardia-grotte-di-catullo-e-museo-archeologico"
+      },
+      {
+        "poi_id": "garda-lombardia-parco-giochi-sirmione"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_garda_lombardia_castello_scaligero_di_sirmione_01.jpg",
+      "poi_images/POI_garda_lombardia_grotte_di_catullo_e_museo_archeologico_01.jpg",
+      "poi_images/POI_garda_lombardia_parco_giochi_sirmione_01.jpg"
+    ],
+    "curiosity": "Sirmione è costruita su una stretta penisola che entra nel lago: da alcuni punti si vede acqua sia a destra che a sinistra del sentiero.",
+    "kids_likes": [
+      "Passare sul ponte vicino al castello",
+      "Guardare le barche nel porticciolo",
+      "Fermarsi per un gelato nelle vie del centro"
+    ],
+    "extra_info": [
+      "Meglio passeggino leggero o zainetto: nel centro ci sono selciati e vicoli stretti",
+      "In estate portare cappellino e crema solare, il sole picchia forte sul lago"
+    ],
+    "junior_mission": "Conta quante barche diverse vedi nel porto di Sirmione durante la passeggiata."
+  },
+  {
+    "id": "garda_lombardia_parchi_gioco_desenzano_rivoltella",
+    "title": "Giro tra parchi gioco a Desenzano e Rivoltella",
+    "destination_id": "lago_di_garda_lombardia",
+    "age_range": "2-14",
+    "duration_hours": 2.0,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "playground",
+      "easy"
+    ],
+    "description": "Itinerario tra i principali parchi gioco di Desenzano e Rivoltella, con aree verdi e giochi vicino al lago.",
+    "stops": [
+      {
+        "poi_id": "garda-lombardia-giardini-marinai-d-italia"
+      },      
+      {
+        "poi_id": "garda-lombardia-parco-giochi-rivoltella"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_garda_lombardia_giardini_marinai_d_italia_01.jpg",
+      "poi_images/POI_garda_lombardia_parco_giochi_rivoltella_01.jpg"
+    ],
+    "curiosity": "Tra Desenzano e Rivoltella ci sono diversi parchi gioco vicini al lago: molti bambini della zona li usano come punto di ritrovo dopo scuola.",
+    "kids_likes": [
+      "Fare un mini tour di più parchi nello stesso pomeriggio",
+      "Giocare sui giochi diversi in ogni parco",
+      "Correre nei prati vicino al lago"
+    ],
+    "extra_info": [
+      "Consigliato avere con sé acqua e una piccola merenda per le soste nei parchi",
+      "Alcuni parchi hanno panchine in ombra utili per i genitori"
+    ],
+    "junior_mission": "In ogni parco trova un gioco diverso da quello del parco precedente e prova a usarlo almeno una volta."
+  },
+  {
+    "id": "garda_lombardia_tour_limonaie_famiglia",
+    "title": "Tour delle limonaie sul Garda lombardo",
+    "destination_id": "lago_di_garda_lombardia",
+    "age_range": "3-14",
+    "duration_hours": 3.0,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "culture",
+      "nature"
+    ],
+    "description": "Visita alle storiche limonaie del Garda lombardo, con scorci panoramici e spiegazioni sulla coltivazione dei limoni.",
+    "stops": [
+      {
+        "poi_id": "garda-lombardia-limonaia-del-castel"
+      },
+      {
+        "poi_id": "garda-lombardia-limonaia-pra-dela-fam"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_garda_lombardia_limonaia_del_castel_01.jpg",
+      "poi_images/POI_garda_lombardia_limonaia_pra_dela_fam_01.jpg"
+    ],
+    "curiosity": "Le limonaie del Garda sono strutture storiche: un tempo venivano chiuse d’inverno con vetrate e tende per proteggere gli agrumi dal freddo.",
+    "kids_likes": [
+      "Vedere da vicino limoni, aranci e altri agrumi sugli alberi",
+      "Sentire il profumo di limone nelle terrazze",
+      "Scovare dettagli antichi come muretti, scale e vecchi attrezzi"
+    ],
+    "extra_info": [
+      "Meglio scarpe comode: ci sono scalinate e terrazzamenti",
+      "In estate portare cappellino e acqua, alcune parti sono esposte al sole"
+    ],
+    "junior_mission": "Conta quante varietà diverse di agrumi riesci a trovare durante il tour della limonaia."
+  },
+  {
+    "id": "garda_lombardia_musei_lago_famiglia",
+    "title": "Musei sul lago per famiglie",
+    "destination_id": "lago_di_garda_lombardia",
+    "age_range": "3-14",
+    "duration_hours": 3.0,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "museum",
+      "culture"
+    ],
+    "description": "Percorso tra alcuni dei musei più interessanti del Garda lombardo, adatti anche a bambini curiosi.",
+    "stops": [
+      {
+        "poi_id": "garda-lombardia-musa-museo-di-salo"
+      },
+      {
+        "poi_id": "garda-lombardia-grotte-di-catullo-e-museo-archeologico"
+      },
+      {
+        "poi_id": "garda-lombardia-villa-romana-e-antiquarium-di-desenzano-del-garda"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_garda_lombardia_musa_museo_di_salo_01.jpg",
+      "poi_images/POI_garda_lombardia_grotte_di_catullo_e_museo_archeologico_01.jpg",
+      "poi_images/POI_garda_lombardia_villa_romana_e_antiquarium_di_desenzano_del_garda_01.jpg"
+    ],
+    "curiosity": "I musei sul Garda spesso raccontano storie di lago, barche, pescatori e antiche popolazioni che vivevano sulle rive.",
+    "kids_likes": [
+      "Osservare oggetti strani e antichi legati alla vita sul lago",
+      "Guardare modellini di barche e mappe",
+      "Fare una pausa tranquilla in un posto al chiuso se fuori fa troppo caldo"
+    ],
+    "extra_info": [
+      "Verificare sempre gli orari di apertura prima di partire",
+      "Alcuni musei offrono riduzioni o ingresso gratuito per i bambini"
+    ],
+    "junior_mission": "Trova nel museo un oggetto legato all’acqua che secondo te non si usa più oggi e prova a immaginare come funzionava."
+  },
+  {
+    "id": "garda_trentino_passeggiata_lungolago_famiglie",
+    "title": "Passeggiata lungolago per famiglie (Riva–Torbole)",
+    "destination_id": "lago_di_garda_trentino",
+    "age_range": "2-14",
+    "duration_hours": 2.0,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "walk",
+      "lake"
+    ],
+    "description": "Passeggiata semplice lungo il lago tra Riva e Torbole con soste nei parchi giochi affacciati sull'acqua.",
+    "stops": [
+      {
+        "poi_id": "garda-trentino-parco-giochi-riva-torbole"
+      },
+      {
+        "poi_id": "garda-trentino-parco-dell-ora"
+      },
+      {
+        "poi_id": "garda-trentino-parco-giochi-attrezzato-per-bambini-riva-nord"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_garda_trentino_parco_giochi_riva_torbole_01.jpg",
+      "poi_images/POI_garda_trentino_parco_dell_ora_01.jpg",
+      "poi_images/POI_garda_trentino_parco_giochi_attrezzato_per_bambini_riva_nord_01.jpg"
+    ],
+    "curiosity": "Tra Riva e Torbole il lago è stretto tra le montagne: qui soffia spesso l'Ora del Garda, il vento che rende famosa la zona per vela e windsurf.",
+    "kids_likes": [
+      "Pista pedonale e ciclabile lontana dalle auto",
+      "Parchi giochi affacciati sull'acqua per fare pause e giocare",
+      "Possibilità di vedere barche, windsurf e papere sul lago"
+    ],
+    "extra_info": [
+      "Gelato vista lago a metà percorso"
+    ],
+    "junior_mission": "Conta quante vele o windsurf colorati vedi sul lago durante la passeggiata!"
+  },
+  {
+    "id": "garda_trentino_busatte_panorama_avventura",
+    "title": "Busatte: panorami e parco avventura",
+    "destination_id": "lago_di_garda_trentino",
+    "age_range": "2-14",
+    "duration_hours": 3.0,
+    "difficulty": "medium",
+    "tags": [
+      "family",
+      "adventure",
+      "panorama"
+    ],
+    "description": "Itinerario alle Busatte tra parco, tratto del sentiero Busatte–Tempesta e parco giochi sulle colline sopra Torbole.",
+    "stops": [
+      {
+        "poi_id": "garda-trentino-parco-delle-busatte"
+      },
+      {
+        "poi_id": "garda-trentino-parco-avventura-busatte-adventure-sentiero-busatte-tempesta"
+      },
+      {
+        "poi_id": "garda-trentino-parco-giochi-colline-sopra-torbole"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_garda_trentino_parco_delle_busatte_01.jpg",
+      "poi_images/POI_garda_trentino_parco_avventura_busatte_adventure_sentiero_busatte_tempesta_01.jpg",
+      "poi_images/POI_garda_trentino_parco_giochi_colline_sopra_torbole_01.jpg"
+    ],
+    "curiosity": "Alle Busatte parte il famoso sentiero Busatte–Tempesta, con scalinate metalliche sospese e viste spettacolari sul lago di Garda.",
+    "kids_likes": [
+      "Prato e parco giochi dove correre e stare all’aria aperta",
+      "Piccolo parco avventura con ponti sospesi adatti anche ai bambini",
+      "Scalette e punti panoramici da cui il lago sembra una piscina gigante"
+    ],
+    "extra_info": [
+      "Meglio scarpe da ginnastica e zainetto con acqua e merenda"
+    ],
+    "junior_mission": "Trova un punto da cui riesci a vedere insieme il lago, le montagne e il paese di Torbole."
+  },
+  {
+    "id": "garda_trentino_tour_musei_famiglia",
+    "title": "Mini tour dei musei del Garda Trentino",
+    "destination_id": "lago_di_garda_trentino",
+    "age_range": "3-14",
+    "duration_hours": 2.5,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "museum",
+      "culture"
+    ],
+    "description": "Percorso leggero tra i musei di Riva del Garda, pensato per famiglie con bambini curiosi.",
+    "stops": [
+      {
+        "poi_id": "garda-trentino-mag-museo-alto-garda"
+      },
+      {
+        "poi_id": "garda-trentino-museo-della-centrale-idroelettrica"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_garda_trentino_mag_museo_alto_garda_01.jpg",
+      "poi_images/POI_garda_trentino_museo_della_centrale_idroelettrica_01.jpg"
+    ],
+    "curiosity": "Il MAG di Riva del Garda si trova dentro un’antica rocca sul lago che in passato è stata anche una prigione.",
+    "kids_likes": [
+      "Sale con modellini, oggetti curiosi e ricostruzioni della vita di una volta",
+      "Possibilità di salire e affacciarsi dalle finestre della rocca",
+      "Percorso al coperto, perfetto quando fuori fa troppo caldo o piove"
+    ],
+    "extra_info": [
+      "Utile parlare prima ai bambini di cosa vedranno: castelli, fiumi, antichi mestieri"
+    ],
+    "junior_mission": "Scegli un oggetto del museo che ti colpisce e inventa una breve storia su chi lo usava."
+  },
+  {
+    "id": "garda_trentino_cascata_varone_famiglia",
+    "title": "Visita alla Cascata del Varone con bambini",
+    "destination_id": "lago_di_garda_trentino",
+    "age_range": "3-14",
+    "duration_hours": 1.0,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "nature",
+      "waterfall"
+    ],
+    "description": "Visita al Parco Grotta Cascata Varone tra passerelle, gole e punti panoramici spettacolari.",
+    "stops": [
+      {
+        "poi_id": "parco_grotta_cascata_varone"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_parco_grotta_cascata_varone_01.jpg"
+    ],
+    "curiosity": "La Cascata del Varone ha scavato la roccia della gola per migliaia di anni, creando la grotta che si visita oggi.",
+    "kids_likes": [
+      "Sentire il rumore fortissimo dell’acqua che scende nella grotta",
+      "Passare su passerelle e ponticelli tra spruzzi e goccioline",
+      "Giocare a vedere le forme strane create dall’acqua sulla roccia"
+    ],
+    "extra_info": [
+      "Portare k-way o felpa con cappuccio: nella grotta ci si bagna un po’ e la temperatura è fresca"
+    ],
+    "junior_mission": "Conta quanti colori diversi riesci a vedere sulla roccia bagnata vicino alla cascata."
+  },
+  {
+    "id": "garda_veneto_passeggiata_malcesine_famiglia",
+    "title": "Passeggiata a Malcesine con castello e parco giochi",
+    "destination_id": "lago_di_garda_veneto",
+    "age_range": "2-14",
+    "duration_hours": 2.5,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "walk",
+      "lake",
+      "castle"
+    ],
+    "description": "Passeggiata nel borgo di Malcesine con visita al Castello Scaligero e pausa al parco giochi vista lago.",
+    "stops": [
+      {
+        "poi_id": "garda-veneto-castello-scaligero-di-malcesine"
+      },
+      {
+        "poi_id": "garda-veneto-parco-giochi-malcesine"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_garda_veneto_castello_scaligero_di_malcesine_01.jpg",
+      "poi_images/POI_garda_veneto_parco_giochi_malcesine_01.jpg"
+    ],
+    "curiosity": "Il castello di Malcesine domina il lago da secoli e offre viste spettacolari verso il Monte Baldo.",
+    "kids_likes": [
+      "Salire verso il castello e scoprire angoli nascosti",
+      "Guardare le barche dal porto",
+      "Prendere un gelato dopo la passeggiata"
+    ],
+    "extra_info": [
+      "Il centro storico ha salite e scalini: meglio scarpe comode",
+      "Meglio andare al mattino nei periodi più affollati"
+    ],
+    "junior_mission": "Trova un punto da cui puoi vedere il castello, il lago e una montagna allo stesso tempo."
+  },
+  {
+    "id": "garda_veneto_parchi_giochi_lungolago",
+    "title": "Parchi giochi sul lungolago tra Garda e Lazise",
+    "destination_id": "lago_di_garda_veneto",
+    "age_range": "2-14",
+    "duration_hours": 2.0,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "playground",
+      "lake"
+    ],
+    "description": "Itinerario tra alcuni dei principali parchi giochi sul lungolago nella zona di Garda, Cisano e Lazise.",
+    "stops": [
+      {
+        "poi_id": "garda-veneto-parco-giochi-garda-lungolago"
+      },
+      {
+        "poi_id": "garda-veneto-parco-giochi-torri-garda-est"
+      },
+      {
+        "poi_id": "garda-veneto-parco-giochi-affi"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_garda_lungolago_01.jpg",
+      "poi_images/POI_garda_veneto_parco_giochi_torri_garda_est_01.jpg",
+      "poi_images/POI_garda_veneto_parco_giochi_affi_01.jpg"
+    ],
+    "curiosity": "Nei comuni del Garda veneto i parchi gioco del lungolago sono punti di ritrovo famosi tra le famiglie del posto.",
+    "kids_likes": [
+      "Passare da un parco all'altro lungo la riva",
+      "Osservare cigni e papere vicino all’acqua",
+      "Giocare mentre i genitori si rilassano sulle panchine"
+    ],
+    "extra_info": [
+      "Possibile abbinare la passeggiata con un gelato",
+      "Nei punti più affollati tenere i bambini vicini"
+    ],
+    "junior_mission": "In ogni parco prova almeno un gioco diverso e scegli il tuo preferito alla fine."
+  },
+  {
+    "id": "garda_veneto_jungle_adventure_famiglia",
+    "title": "Giornata al Jungle Adventure Park",
+    "destination_id": "lago_di_garda_veneto",
+    "age_range": "2-14",
+    "duration_hours": 3.0,
+    "difficulty": "medium",
+    "tags": [
+      "family",
+      "adventure",
+      "park"
+    ],
+    "description": "Giornata all'insegna dell'avventura tra percorsi sugli alberi e giochi all'aperto, ideale per famiglie attive.",
+    "stops": [
+      {
+        "poi_id": "garda-veneto-jungle-adventure-park"
+      },
+      {
+        "poi_id": "garda-veneto-parco-giochi-panoramico"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_garda_veneto_jungle_adventure_park_01.jpg",
+      "poi_images/POI_garda_veneto_parco_giochi_panoramico_01.jpg"
+    ],
+    "curiosity": "Il parco avventura è costruito tra gli alberi e offre percorsi sospesi pensati anche per bambini.",
+    "kids_likes": [
+      "Camminare sui ponti sospesi",
+      "Vivere l'esperienza con casco e imbrago",
+      "Affrontare piccole sfide da esploratori"
+    ],
+    "extra_info": [
+      "Serve abbigliamento comodo e scarpe chiuse",
+      "Meglio controllare altezza minima dei percorsi"
+    ],
+    "junior_mission": "Conta quanti tipi diversi di alberi riesci a vedere mentre fai il percorso."
+  },
+  {
+    "id": "garda_veneto_tour_musei_tradizioni",
+    "title": "Museo dell’Olio e della Pesca sul Garda veneto",
+    "destination_id": "lago_di_garda_veneto",
+    "age_range": "3-14",
+    "duration_hours": 2.5,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "museum",
+      "culture"
+    ],
+    "description": "Mini tour tra il Museo dell’Olio e il Museo della Pesca e delle Tradizioni Lacustri, per scoprire la storia del Garda veneto in modo semplice.",
+    "stops": [
+      {
+        "poi_id": "garda-veneto-museo-dellolio"
+      },
+      {
+        "poi_id": "garda-veneto-museo-della-pesca-e-delle-tradizioni-lacustri"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_garda_veneto_museo_dellolio_01.jpg",
+      "poi_images/POI_garda_veneto_museo_della_pesca_e_delle_tradizioni_lacustri_01.jpg"
+    ],
+    "curiosity": "Il Garda, sponda Veneta, ha una lunga tradizione legata all’olio d’oliva e alla pesca, tramandata nei musei locali.",
+    "kids_likes": [
+      "Vedere attrezzi antichi per la pesca",
+      "Osservare barche storiche e mappe",
+      "Scoprire come si produceva l’olio un tempo"
+    ],
+    "extra_info": [
+      "Controllare orari e eventuali visite guidate",
+      "Musei piccoli e facili da visitare con bambini"
+    ],
+    "junior_mission": "Trova uno strumento che veniva usato per le olive e immagina come funzionava."
+  },
+  {
+    "id": "trentino_andalo_paganella_family_park",
+    "title": "Andalo Life e Sarnacli Mountain Park",
+    "destination_id": "trentino",
+    "age_range": "2-14",
+    "duration_hours": 3.0,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "playground",
+      "mountain"
+    ],
+    "description": "Giornata tra il parco Andalo Life e il Sarnacli Mountain Park, con giochi, percorsi tematici e aree relax in quota.",
+    "stops": [
+      {
+        "poi_id": "andalo-andalo-life-family-park"
+      },
+      {
+        "poi_id": "paganella-sarnacli-mountain-park"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_andalo_andalo_life_family_park_01.jpg",
+      "poi_images/POI_paganella_sarnacli_mountain_park_01.jpg"
+    ],
+    "curiosity": "Andalo è uno dei paesi più family-friendly del Trentino, con parchi e strutture pensate proprio per i bambini.",
+    "kids_likes": [
+      "Saltare da un parco gioco all'altro",
+      "Giocare con acqua e sabbia dove presenti",
+      "Correre nei grandi prati vicino al lago di Andalo"
+    ],
+    "extra_info": [
+      "Il meteo in montagna cambia rapidamente: portare sempre una felpa",
+      "Alcune aree sono molto soleggiate: consigliato cappellino e crema"
+    ],
+    "junior_mission": "Trova un gioco che non hai mai visto prima e provalo almeno una volta."
+  },
+  {
+    "id": "trentino_trento_parchi_bambini",
+    "title": "Parchi gioco a Trento per bambini",
+    "destination_id": "trentino",
+    "age_range": "2-14",
+    "duration_hours": 3.0,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "city",
+      "playground"
+    ],
+    "description": "Itinerario tra alcuni dei parchi gioco più belli di Trento, tra natura, giochi e percorsi educativi.",
+    "stops": [
+      {
+        "poi_id": "trento-parco-giochi-alpino-e-giardino-geologico"
+      },
+      {
+        "poi_id": "trento-parco-fratelli-michelin-le-albere"
+      },
+      {
+        "poi_id": "trento-parco-di-melta"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_trento_parco_giochi_alpino_e_giardino_geologico_01.jpg",
+      "poi_images/POI_trento_parco_fratelli_michelin_le_albere_01.jpg",
+      "poi_images/POI_trento_parco_di_melta_01.jpg"
+    ],
+    "curiosity": "Trento è piena di parchi distribuiti tra centro e quartieri verdi, molto frequentati dai bambini del posto.",
+    "kids_likes": [
+      "Scoprire giochi diversi in più parchi",
+      "Fare amicizia con bambini del posto",
+      "Usare strutture moderne e sicure"
+    ],
+    "extra_info": [
+      "Portare borraccia: molte aree hanno fontanelle",
+      "Ideale combinare parchi e visita al centro storico"
+    ],
+    "junior_mission": "In ogni parco prova a trovare un gioco diverso dagli altri."
+  },
+  {
+    "id": "trentino_valsugana_parchi_famiglia",
+    "title": "Parchi gioco e verde in Valsugana",
+    "destination_id": "trentino",
+    "age_range": "2-14",
+    "duration_hours": 3.0,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "lake",
+      "playground"
+    ],
+    "description": "Giornata in Valsugana tra parchi gioco, aree verdi e scorci sul lago di Levico e Caldonazzo.",
+    "stops": [
+      {
+        "poi_id": "valsugana-parco-tre-castagni"
+      },
+      {
+        "poi_id": "valsugana-parco-delle-terme-di-levico"
+      },
+      {
+        "poi_id": "valsugana-parco-comunale-di-tenna"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_valsugana_parco_tre_castagni_01.jpg",
+      "poi_images/POI_valsugana_parco_delle_terme_di_levico_01.jpg",
+      "poi_images/POI_valsugana_parco_comunale_di_tenna_01.jpg"
+    ],
+    "curiosity": "La Valsugana alterna paesi, montagna e lago: i parchi riflettono questa varietà con aree gioco molto diverse tra loro.",
+    "kids_likes": [
+      "Giocare in parchi con vista montagne",
+      "Fare merenda vicino al lago",
+      "Cambiare ambiente tra paese e natura"
+    ],
+    "extra_info": [
+      "Portare costume se si passa vicino al lago",
+      "Attenzione ai parcheggi nei weekend"
+    ],
+    "junior_mission": "Conta almeno 5 colori della natura che trovi durante la giornata."
+  },
+  {
+    "id": "trentino_val_di_fiemme_family_fun",
+    "title": "Divertimento in Val di Fiemme con i bambini",
+    "destination_id": "trentino",
+    "age_range": "2-14",
+    "duration_hours": 3.5,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "mountain",
+      "playground"
+    ],
+    "description": "Itinerario tra i parchi gioco della Val di Fiemme, con aree attrezzate e percorsi in quota pensati per le famiglie.",
+    "stops": [
+      {
+        "poi_id": "val-di-fiemme-giro-dali-parco-giochi"
+      },
+      {
+        "poi_id": "val-di-fiemme-parco-giochi-cavalese"
+      },
+      {
+        "poi_id": "val-di-fiemme-cermislandia-parco-bambini"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_val_di_fiemme_giro_dali_parco_giochi_01.jpg",
+      "poi_images/POI_val_di_fiemme_parco_giochi_cavalese_01.jpg",
+      "poi_images/POI_val_di_fiemme_cermislandia_parco_bambini_01.jpg"
+    ],
+    "curiosity": "La Val di Fiemme è celebre per i suoi percorsi family-friendly e le aree gioco immerse nel bosco.",
+    "kids_likes": [
+      "Trovare sculture o personaggi nei sentieri",
+      "Giocare nei parchi in quota",
+      "Sentirsi piccoli esploratori"
+    ],
+    "extra_info": [
+      "Portare uno strato in più: in quota l'aria è fresca",
+      "Controllare l’apertura degli impianti in base alla stagione"
+    ],
+    "junior_mission": "Scegli un albero che ti piace e inventa per lui un nome speciale."
+  },
+  {
+    "id": "veneto_ciclabile_mincio_famiglia",
+    "title": "Ciclabile del Mincio e agriturismo in famiglia",
+    "destination_id": "verona_provincia",
+    "age_range": "0-12",
+    "duration_hours": 3.5,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "bike",
+      "river",
+      "food"
+    ],
+    "description": "Passeggiata o biciclettata lungo il Mincio con sosta alla Littorina e pranzo in agriturismo a Valeggio sul Mincio.",
+    "stops": [
+     { 
+        "poi_id": "salionze-la-littorina-del-mincio" 
+     },
+     { 
+        "poi_id": "valeggio-sul-mincio-agriturismo-ca-del-gal"
+     }
+   ],
+   "pictures": [
+     "poi_images/POI_veneto_ciclabile_mincio_01.jpg",
+     "poi_images/POI_salionze_la_littorina_del_mincio_01.jpg",
+     "poi_images/POI_valeggio_sul_mincio_agriturismo_ca_del_gal_01.jpg"
+    ],
+    "curiosity": "La ciclabile del Mincio segue il fiume tra borghi, natura e tratti pianeggianti perfetti per le famiglie.",
+    "kids_likes": [
+      "Pedalare in sicurezza lontano dalle auto",
+      "Guardare il fiume e gli animali lungo il percorso",
+      "Fermarsi per una merenda nei prati o negli agriturismi"
+    ],
+    "extra_info": [
+      "Portare acqua e cappellino, il percorso è molto soleggiato in alcuni punti",
+      "Scegliere un tratto corto per bambini piccoli o seggiolino",
+      "Attenzione al vento: può essere forte in alcuni tratti"
+    ],
+    "junior_mission": "Conta quanti ponti attraversi e trova almeno un animale lungo il percorso."
+  },
+  {
+    "id": "veneto_lessinia_sapori_panorama",
+    "title": "Sapori della Lessinia e panorami",
+    "destination_id": "verona_provincia",
+    "age_range": "0-12",
+    "duration_hours": 3.5,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "mountain",
+      "food"
+    ],
+    "description": "Gita in Lessinia tra Bosco Allegro e il Capitel Brinchi, tra prodotti tipici e panorami sulle montagne veronesi.",
+    "stops": [
+      {
+        "poi_id": "santanna-dalfaedo-bosco-allegro-corrado-benedetti"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_santanna_dalfaedo_bosco_allegro_corrado_benedetti_01.jpg"
+    ],
+    "curiosity": "La Lessinia è un altopiano unico, ricco di malghe, pascoli e panorami che si aprono fino alla pianura veneta.",
+    "kids_likes": [
+      "Vedere mucche e cavalli nei prati",
+      "Correre nei grandi spazi aperti",
+      "Assaggiare piatti tipici in malga"
+    ],
+    "extra_info": [
+      "In quota serve sempre una felpa anche in estate",
+      "Le strade sono tortuose: prevedere pause se i bambini soffrono l’auto",
+      "Alcune malghe richiedono prenotazione"
+    ],
+    "junior_mission": "Trova un punto panoramico e prova a riconoscere quante montagne diverse vedi."
+  },
+  {
+    "id": "parco_cascate_molina_famiglie",
+    "title": "Parco delle Cascate di Molina – Avventura per Famiglie",
+    "destination_id": "verona_provincia",
+    "age_range": "5-14",
+    "duration_hours": 2.5,
+    "difficulty": "medium",
+    "tags": [
+      "family",
+      "nature",
+      "waterfall"
+    ],
+    "description": "Percorso naturalistico tra cascate, ponticelli e sentieri immersi nel verde, ideale per famiglie con bambini.",
+    "stops": [
+      {
+        "poi_id": "verona-provincia-parco-cascate-molina"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_verona_provincia_parco_cascate_molina_01.jpg"
+    ],
+    "curiosity": "Il borgo di Molina era famoso per i mulini mossi dall’acqua delle cascate.",
+    "kids_likes": [
+      "Ponti in legno",
+      "Cascate rumorose",
+      "Sentieri avventurosi"
+    ],
+    "extra_info": [
+      "Scarpe da trekking consigliate",
+      "Affollato nei weekend"
+    ],
+    "junior_mission": "Trova la cascata più rumorosa del parco."
+  },
+  {
+    "id": "pista_ciclopedonale_valdadige_famiglie",
+    "title": "Ciclopedonale della Valdadige – Pedalata in Famiglia",
+    "destination_id": "verona_provincia",
+    "age_range": "4-14",
+    "duration_hours": 2.0,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "bike",
+      "river"
+    ],
+    "description": "Percorso pianeggiante lungo l’Adige tra vigneti e pareti rocciose, perfetto per pedalare in sicurezza con i bambini.",
+    "stops": [],
+    "pictures": [
+      "poi_images/POI_verona_provincia_ciclopedonale_valdadige_01.jpg"
+    ],
+    "curiosity": "Il tratto di Ceraino è uno dei passaggi più suggestivi della Valdadige.",
+    "kids_likes": [
+      "Pedalare lontano dalle auto",
+      "Osservare vigneti e rocce",
+      "Fare picnic"
+    ],
+    "extra_info": [
+      "Casco consigliato",
+      "Tratti ombreggiati"
+    ],
+    "junior_mission": "Trova almeno un arrampicatore sulle pareti."
+  },
+  {
+    "id": "verona_provincia_borghetto_sul_mincio_famiglie",
+    "title": "Borghetto sul Mincio – Passeggiata da Favola",
+    "destination_id": "verona_provincia",
+    "age_range": "4-14",
+    "duration_hours": 1.5,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "village",
+      "nature",
+      "walk"
+    ],
+    "description": "Passeggiata rilassante in uno dei borghi più belli d’Italia, tra mulini, ponticelli e il fiume Mincio. Ideale per famiglie con bambini.",
+    "stops": [
+      {
+        "poi_id": "valeggio-sul-mincio-agriturismo-ca-del-gal"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_verona_provincia_borghetto_sul_mincio_famiglie_01.jpg"
+    ],
+    "curiosity": "Borghetto era un antico villaggio fortificato strategico per il controllo del fiume.",
+    "kids_likes": [
+      "Mulini sull’acqua",
+      "Ponticelli",
+      "Anatre e pesci nel fiume"
+    ],
+    "extra_info": [
+      "Passeggino utilizzabile",
+      "Perfetto al mattino"
+    ],
+    "junior_mission": "Conta quanti mulini riesci a vedere lungo il fiume."
+  },
+  {
+    "id": "verona_provincia_parco_natura_vallagarina_famiglie",
+    "title": "Parco Giardino Sigurtà – Esploratori in Erba",
+    "destination_id": "verona_provincia",
+    "age_range": "5-14",
+    "duration_hours": 2.0,
+    "difficulty": "easy",
+    "tags": [
+      "family",
+      "nature",
+      "outdoor",
+      "exploration"
+    ],
+    "description": "Passeggiata nel Parco Giardino Sigurtà tra prati curati, alberi secolari e percorsi ideali per far scoprire ai bambini piante, insetti e piccoli animali in un ambiente sicuro.",
+    "stops": [
+      {
+        "poi_id": "verona-provincia-parco-giardino-sigurta"
+      }
+    ],
+    "pictures": [
+      "poi_images/POI_verona_provincia_parco_giardino_sigurta_01.jpg"
+    ],
+    "curiosity": "Molti parchi locali del veronese ospitano specie protette e sentieri didattici.",
+    "kids_likes": [
+      "Cercare insetti",
+      "Sentieri nel bosco",
+      "Giocare nella natura"
+    ],
+    "extra_info": [
+      "Scarpe comode",
+      "Ideale Primavera/Estate/Autunno"
+    ],
+    "junior_mission": "Trova una foglia diversa per ogni colore."
+  }
+]

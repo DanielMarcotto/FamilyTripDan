@@ -1,0 +1,51 @@
+{
+  "common": {
+    "id": "zh-Hans"
+  },
+
+  "menu": {
+    "home": "首页",
+    "fridge": "冰箱",
+    "settings": "设置"
+  },
+
+  "home": {
+    "welcome": "你好",
+    "hero": "今天我们做什么？",
+    "itemsLeft": "冰箱中的物品",
+    "expiring": "即将过期",
+    "expired": "已过期的物品",
+    "suggest": "推荐",
+    "groceries": "杂货",
+    "chatboxPlaceholder": "你想准备什么？",
+    "selectIngredients": "选择食材"
+  },
+
+  "settings": {
+    "memberSince": "会员自",
+    "general": "常规",
+    "info": "信息",
+    "account": "账户",
+    "security": "安全",
+    "subscription": "订阅",
+    "foodprefs": "饮食偏好",
+    "haptics": "触觉反馈",
+    "notifications": "通知",
+    "language": "语言",
+    "t&s": "条款与条件",
+    "privacypolicy": "隐私政策",
+    "version": "版本",
+    "logout": "退出登录",
+    "deleteAccount": "删除账户",
+    "deleteAccountTitle": "删除账户",
+    "deleteAccountMessage": "您确定要删除您的账户吗？此操作是永久性的，无法撤销。您的所有数据将被删除。",
+    "deleteAccountConfirm": "删除",
+    "deleteAccountCancel": "取消",
+    "deleteAccountSuccess": "账户已删除",
+    "deleteAccountSuccessMessage": "您的账户已成功删除",
+    "deleteAccountError": "错误",
+    "deleteAccountErrorMessage": "无法删除账户",
+    "deleteAccountDangerZone": "危险区域",
+    "deleteAccountDescription": "删除您的账户后，您的所有数据将被永久删除。此操作无法撤销。"
+  }
+}

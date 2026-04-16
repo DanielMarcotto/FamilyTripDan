@@ -1,0 +1,51 @@
+{
+  "common": {
+    "id": "fr"
+  },
+
+  "menu": {
+    "home": "Accueil",
+    "fridge": "Réfrigérateur",
+    "settings": "Paramètres"
+  },
+
+  "home": {
+    "welcome": "Salut",
+    "hero": "Qu’allons-nous cuisiner aujourd’hui ?",
+    "itemsLeft": "Articles frigo",
+    "expiring": "Bientôt périmé",
+    "expired": "Articles périmés",
+    "suggest": "Suggérer",
+    "groceries": "Courses",
+    "chatboxPlaceholder": "Que souhaitez-vous préparer ?",
+    "selectIngredients": "Sélectionner les ingrédients"
+  },
+
+  "settings": {
+    "memberSince": "Membre depuis",
+    "general": "Général",
+    "info": "Informations",
+    "account": "Compte",
+    "security": "Sécurité",
+    "subscription": "Abonnement",
+    "foodprefs": "Préférences alimentaires",
+    "haptics": "Haptique",
+    "notifications": "Notifications",
+    "language": "Langue",
+    "t&s": "Conditions générales",
+    "privacypolicy": "Politique de confidentialité",
+    "version": "Version",
+    "logout": "Déconnexion",
+    "deleteAccount": "Supprimer le Compte",
+    "deleteAccountTitle": "Supprimer le Compte",
+    "deleteAccountMessage": "Êtes-vous sûr de vouloir supprimer votre compte ? Cette action est permanente et ne peut pas être annulée. Toutes vos données seront supprimées.",
+    "deleteAccountConfirm": "Supprimer",
+    "deleteAccountCancel": "Annuler",
+    "deleteAccountSuccess": "Compte Supprimé",
+    "deleteAccountSuccessMessage": "Votre compte a été supprimé avec succès",
+    "deleteAccountError": "Erreur",
+    "deleteAccountErrorMessage": "Impossible de supprimer le compte",
+    "deleteAccountDangerZone": "Zone Dangereuse",
+    "deleteAccountDescription": "En supprimant votre compte, toutes vos données seront définitivement supprimées. Cette action ne peut pas être annulée."
+  }
+}

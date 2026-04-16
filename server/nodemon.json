@@ -1,0 +1,9 @@
+{
+  "quiet": true,
+  "exec": "ts-node ./src/index.ts",
+  "watch": ["src"],
+  "ext": "ts,tsx",
+  "events": {
+    "restart": "node -e \"console.clear()\""
+  }
+}

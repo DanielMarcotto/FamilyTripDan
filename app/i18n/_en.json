@@ -1,0 +1,51 @@
+{
+    "common": {
+        "id": "en"
+    },
+
+    "menu": {
+        "home": "Home",
+        "fridge": "Fridge",
+        "settings": "Settings"
+    },
+
+    "home": {
+        "welcome": "Hey",
+        "hero": "What are we cooking today?",
+        "itemsLeft": "Items in fridge",
+        "expiring": "Expiring soon",
+        "expired": "Items expired",
+        "suggest": "Suggest",
+        "groceries": "Groceries",
+        "chatboxPlaceholder": "What would you like to prepare?",
+        "selectIngredients": "Select Ingredients"
+    },
+
+    "settings": {
+        "memberSince": "Member since",
+        "general": "General",
+        "info":"Info",
+        "account": "Account",
+        "security": "Security",
+        "subscription": "Subscription",
+        "foodprefs": "Food Preferences",
+        "haptics": "Haptics",
+        "notifications": "Notifications",
+        "language": "Language",
+        "t&s": "Terms & Conditions",
+        "privacypolicy": "Privacy Policy",
+        "version": "Version",
+        "logout": "Logout",
+        "deleteAccount": "Delete Account",
+        "deleteAccountTitle": "Delete Account",
+        "deleteAccountMessage": "Are you sure you want to delete your account? This action is permanent and cannot be undone. All your data will be deleted.",
+        "deleteAccountConfirm": "Delete",
+        "deleteAccountCancel": "Cancel",
+        "deleteAccountSuccess": "Account Deleted",
+        "deleteAccountSuccessMessage": "Your account has been successfully deleted",
+        "deleteAccountError": "Error",
+        "deleteAccountErrorMessage": "Unable to delete account",
+        "deleteAccountDangerZone": "Danger Zone",
+        "deleteAccountDescription": "By deleting your account, all your data will be permanently removed. This action cannot be undone."
+    }
+}

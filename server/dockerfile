@@ -1,0 +1,26 @@
+# Usa la imagen oficial de Node.js 20 en Alpine
+FROM node:20-alpine
+
+# Instala Python3, Make, G++, y otras dependencias necesarias para node-gyp
+RUN apk add --no-cache python3 make g++ bash
+
+# Define el directorio de trabajo
+WORKDIR /app
+
+# Copia los archivos de dependencias
+COPY package.json package-lock.json ./
+
+# Instala las dependencias del backend
+RUN npm install --force
+
+# Install nodemon globally
+RUN npm install -g nodemon
+
+# Copia el código fuente
+COPY . .
+
+# Expone el puerto del backend
+EXPOSE 4000
+
+# Comando para iniciar la aplicación
+CMD ["node", "index.js"]

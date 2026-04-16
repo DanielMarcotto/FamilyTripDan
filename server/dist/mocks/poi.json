@@ -1,0 +1,5842 @@
+[
+  {
+    "id": "garda-trentino-museo-della-centrale-idroelettrica",
+    "name": "Museo della centrale idroelettrica",
+    "category": "museum",
+    "address": "Riva del Garda (TN)",
+    "latitude": 45.8834287,
+    "longitude": 10.8383641,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Museo della centrale idroelettrica è un museo situato a Riva del Garda. Una centrale monumentale, realizzata in riva al lago negli anni '20 su progetto dell'architetto di D'Annunzio, Giancarlo Maroni, già artefice del Vittoriale degli Italiani.",
+    "website": "https://www.google.com/maps/place/Museo+della+centrale+idroelettrica/",
+    "pictures": [
+      "poi_images/POI_garda_trentino_museo_della_centrale_idroelettrica_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "mountain",
+      "museum",
+      "nature",
+      "science",
+      "technology"
+    ],
+    "priority": 1,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Riva del Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor",
+      "nature"
+    ]
+  },
+  {
+    "id": "garda-trentino-mag-museo-alto-garda",
+    "name": "MAG – Museo Alto Garda",
+    "category": "museum",
+    "address": "Riva del Garda (TN)",
+    "latitude": 45.8845054,
+    "longitude": 10.8419284,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "MAG – Museo Alto Garda è un museo situato a Riva del Garda. Castello medievale sul lago con dipinti, mostre archeologiche e laboratori per bambini.",
+    "website": "https://www.google.com/maps/place/MAG+Museo+Alto+Garda/",
+    "pictures": [
+      "poi_images/POI_garda_trentino_mag_museo_alto_garda_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "mountain",
+      "museum",
+      "nature"
+    ],
+    "priority": 2,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Riva del Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor",
+      "nature"
+    ]
+  },
+  {
+    "id": "garda-trentino-museo-delle-palafitte-del-lago-di-ledro",
+    "name": "Museo delle Palafitte del Lago di Ledro",
+    "category": "museum",
+    "address": "Molina di Ledro (TN)",
+    "latitude": 45.8739603,
+    "longitude": 10.7654275,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Museo delle Palafitte del Lago di Ledro è un museo situato a Molina di Ledro. Un viaggio nel tempo alla scoperta di uno dei siti Patrimonio UNESCO più importanti dell’arco alpino.",
+    "website": "https://www.google.com/maps/place/Museo+delle+Palafitte+del+Lago+di+Ledro/",
+    "pictures": [
+      "poi_images/POI_garda_trentino_museo_delle_palafitte_del_lago_di_ledro_01.jpg"
+    ],
+    "tags": [
+      "archaeology",
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "mountain",
+      "museum",
+      "nature",
+      "outdoor"
+    ],
+    "priority": 3,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Molina di Ledro",
+    "environment": "mixed",
+    "macro_category": [
+      "culture",
+      "mixed",
+      "nature"
+    ]
+  },
+  {
+    "id": "garda-trentino-museo-del-laboratorio-farmaceutico-foletto",
+    "name": "Museo del Laboratorio Farmaceutico Foletto",
+    "category": "museum",
+    "address": "Pieve di Ledro (TN)",
+    "latitude": 45.8889648,
+    "longitude": 10.7322048,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Museo del Laboratorio Farmaceutico Foletto è un museo situato a Pieve di Ledro.espone 170 anni di tradizione farmaceutica della famiglia Foletto: contiene macchine risalenti a periodi antecedenti le due guerre mondiali del secolo precedente, un erbario storico e ha mantenuto inalterato l'ingresso della antica Farmacia com'era a partire dalla metà del XIX secolo.",
+    "website": "https://www.google.com/maps/place/Museo+del+Laboratorio+Farmaceutico+Foletto+-+Pieve+di+Ledro/",
+    "pictures": [
+      "poi_images/POI_garda_trentino_museo_del_laboratorio_farmaceutico_foletto_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "mountain",
+      "museum",
+      "nature"
+    ],
+    "priority": 4,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Pieve di Ledro",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor",
+      "nature"
+    ]
+  },
+  {
+    "id": "garda-veneto-orto-botanico-del-monte-baldo",
+    "name": "Orto Botanico del Monte Baldo",
+    "category": "museum",
+    "address": "Novezzina / Monte Baldo (VR)",
+    "latitude": 45.6991056,
+    "longitude": 10.8585448,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Orto Botanico del Monte Baldo è un museo situato a Novezzina. L’Orto Botanico del Monte Baldo, situato a 1.235 metri di quota, in Località Novezzina, è dedicato a Vittorio Pellegrini, l’ispettore forestale veronese che nel 1886 qui progettò un vivaio per il rimboschimento di molte aree baldensi. In questo spazio di 20.000 mq, trasformato in orto botanico dalla Comunità Montana nel 1989",
+    "website": "https://www.google.com/maps/place/Orto+Botanico+del+Monte+Baldo+-+Rifugio+Novezzina/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_orto_botanico_del_monte_baldo_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum",
+      "nature",
+      "science"
+    ],
+    "priority": 5,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Novezzina / Monte Baldo",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor",
+      "nature"
+    ]
+  },
+  {
+    "id": "garda-veneto-castello-scaligero-di-malcesine",
+    "name": "Castello Scaligero di Malcesine",
+    "category": "museum",
+    "address": "Malcesine (VR)",
+    "latitude": 45.766121,
+    "longitude": 10.8082867,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Castello Scaligero di Malcesine è un museo situato a Malcesine. Castello medievale sul lago con museo di storia e scienze naturali e vista panoramica dalla torre.",
+    "website": "https://www.google.com/maps/place/Castello+Scaligero+di+Malcesine/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_castello_scaligero_di_malcesine_01.jpg"
+    ],
+    "tags": [
+      "castle",
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 6,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Malcesine",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-museo-del-lago-di-cassone",
+    "name": "Museo del Lago di Cassone",
+    "category": "museum",
+    "address": "Cassone di Malcesine (VR)",
+    "latitude": 45.7346385,
+    "longitude": 10.7891827,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Museo del Lago di Cassone è un museo situato a Cassone di Malcesine.Il Museo del Lago, o detto anche Museo della pesca, è una tappa emozionante del tuo viaggio culturale sul Lago di Garda.",
+    "website": "https://www.google.com/maps/place/Museo+del+Lago+di+Cassone/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_museo_del_lago_di_cassone_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum",
+      "nature",
+      "outdoor"
+    ],
+    "priority": 7,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Cassone di Malcesine",
+    "environment": "mixed",
+    "macro_category": [
+      "culture",
+      "mixed",
+      "nature"
+    ]
+  },
+  {
+    "id": "garda-veneto-castello-scaligero-di-torri-del-benaco",
+    "name": "Castello Scaligero di Torri del Benaco",
+    "category": "museum",
+    "address": "Torri del Benaco (VR)",
+    "latitude": 45.6077543,
+    "longitude": 10.6854609,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Castello Scaligero di Torri del Benaco è un museo situato a Torri del Benaco. Fortificazioni risalenti alla fine del 1100, con un museo, giardini di agrumi e vista sul lago.",
+    "website": "https://www.google.com/maps/place/Castello+Scaligero+di+Torri+del+Benaco/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_castello_scaligero_di_torri_del_benaco_01.jpg"
+    ],
+    "tags": [
+      "castle",
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 8,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Torri del Benaco",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-museo-territoriale-del-lago-di-garda-luigi-carlo-bertame",
+    "name": "Museo Territoriale del Lago di Garda “Luigi Carlo Bertamè”",
+    "category": "museum",
+    "address": "Garda (VR)",
+    "latitude": 45.5741403,
+    "longitude": 10.7073912,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Museo Territoriale del Lago di Garda “Luigi Carlo Bertamè” è un museo situato a Bardolino. È dedicato alla tradizioni della pesca, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio.",
+    "website": "https://www.google.com/maps/place/Museo+Territoriale+del+Lago+di+Garda/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_museo_territoriale_del_lago_di_garda_luigi_carlo_bertame_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum",
+      "nature",
+      "outdoor"
+    ],
+    "priority": 9,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Bardolino",
+    "environment": "mixed",
+    "macro_category": [
+      "culture",
+      "mixed",
+      "nature"
+    ]
+  },
+  {
+    "id": "garda-veneto-museo-del-vino-e-cantina",
+    "name": "Museo del Vino e Cantina",
+    "category": "museum",
+    "address": "Bardolino (VR)",
+    "latitude": 45.5389583,
+    "longitude": 10.7347758,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Museo del Vino e Cantina è un museo situato a Bardolino.Affascinante museo che mostra il processo e la storia della vinificazione, inclusa una stampa del XV secolo.",
+    "website": "https://www.google.com/maps/place/Museo+del+Vino+e+Cantina/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_museo_del_vino_e_cantina_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "food",
+      "garda",
+      "indoor",
+      "lake",
+      "museum",
+      "tradition",
+      "wine"
+    ],
+    "priority": 10,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Bardolino",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "family",
+      "food",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-museo-dellolio",
+    "name": "Museo dell’Olio",
+    "category": "museum",
+    "address": "Cisano (VR)",
+    "latitude": 45.5238598,
+    "longitude": 10.7290804,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Museo dell’Olio è un museo situato a Cisano. Inaugurato nel 1988,oggi ospita quattrocentocinquanta pezzi storici, tutti legati alla tradizione olivicola.",
+    "website": "https://www.google.com/maps/place/Museo+dell'Olio/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_museo_dellolio_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "food",
+      "garda",
+      "indoor",
+      "lake",
+      "museum",
+      "oil",
+      "tradition"
+    ],
+    "priority": 11,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Cisano",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "family",
+      "food",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-museo-della-pesca-e-delle-tradizioni-lacustri",
+    "name": "Museo della Pesca e delle Tradizioni Lacustri",
+    "category": "museum",
+    "address": "Peschiera / Lago (VR)",
+    "latitude": 45.4397856,
+    "longitude": 10.6964974,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Museo della Pesca e delle Tradizioni Lacustri è un museo situato a Peschiera / Lago. È dedicato alla tradizioni della pesca, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio.",
+    "website": "https://www.google.com/maps/place/Museo+della+Pesca+e+delle+Tradizioni+Lacustri/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_museo_della_pesca_e_delle_tradizioni_lacustri_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "fishing",
+      "garda",
+      "indoor",
+      "lake",
+      "museum",
+      "nature",
+      "outdoor",
+      "tradition"
+    ],
+    "priority": 12,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Peschiera / Lago",
+    "environment": "mixed",
+    "macro_category": [
+      "culture",
+      "mixed",
+      "nature"
+    ]
+  },
+  {
+    "id": "garda-veneto-palazzina-storica",
+    "name": "Palazzina Storica",
+    "category": "museum",
+    "address": "Peschiera del Garda (VR)",
+    "latitude": 45.4400713,
+    "longitude": 10.6937605,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Palazzina Storica è un museo situato a Peschiera del Garda. È dedicato alla storia e cultura del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Palazzina+Storica/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_palazzina_storica_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 13,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Peschiera del Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-abitato-romano-di-arilica",
+    "name": "Abitato Romano di Arilica",
+    "category": "museum",
+    "address": "Peschiera del Garda (VR)",
+    "latitude": 45.4378488,
+    "longitude": 10.6947737,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Abitato Romano di Arilica è un museo situato a Peschiera del Garda. Accesso libero.",
+    "website": "https://www.google.com/maps/place/Abitato+Romano+di+Arilica/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_abitato_romano_di_arilica_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 14,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Peschiera del Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-forte-ardietti-ponti-sul-mincio",
+    "name": "Forte Ardietti (Ponti sul Mincio)",
+    "category": "museum",
+    "address": "Ponti sul Mincio (MN)",
+    "latitude": 45.4228448,
+    "longitude": 10.6932043,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Forte Ardietti (Ponti sul Mincio) è un museo situato a Ponti sul Mincio. È dedicato alla storia e cultura del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie.",
+    "website": "https://www.google.com/maps/place/Forte+Ardietti/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_forte_ardietti_ponti_sul_mincio_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 15,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Ponti sul Mincio",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-abazia-torre-di-san-martino-della-battaglia",
+    "name": "Abazia / Torre di San Martino della Battaglia",
+    "category": "museum",
+    "address": "San Martino (BS)",
+    "latitude": 45.4252271,
+    "longitude": 10.6024976,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Abazia / Torre di San Martino della Battaglia è un museo situato a San Martino. La torre sorge sul colle più alto di San Martino che l’armata sarda, con alterne fortune, conquistò, perse e riprese più volte con cruenti assalti e ripetute cariche contro gli Austriaci.",
+    "website": "https://www.google.com/maps/place/Torre+di+San+Martino+della+Battaglia/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_abazia_torre_di_san_martino_della_battaglia_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 16,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "San Martino",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-casa-del-pescatore",
+    "name": "Casa del Pescatore",
+    "category": "museum",
+    "address": "Sirmione (BS)",
+    "latitude": 45.4626344,
+    "longitude": 10.6390382,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Casa del Pescatore è un museo situato a Desenzano del Garda. È dedicato alla tradizioni della pesca, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie.",
+    "website": "https://www.google.com/maps/place/Casa+del+Pescatore/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_casa_del_pescatore_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "fishing",
+      "garda",
+      "indoor",
+      "lake",
+      "museum",
+      "tradition"
+    ],
+    "priority": 17,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Desenzano del Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-castello-di-padenghe",
+    "name": "Castello di Padenghe",
+    "category": "museum",
+    "address": "Padenghe sul Garda (BS)",
+    "latitude": 45.5066218,
+    "longitude": 10.5007529,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Castello di Padenghe è un museo situato a Padenghe sul Garda. Rovine in pietra di torri, mura e porte di un castello medievale in collina affacciato sul Lago di Garda.",
+    "website": "https://www.google.com/maps/place/Castello+di+Padenghe/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_castello_di_padenghe_01.jpg"
+    ],
+    "tags": [
+      "castle",
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 19,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Padenghe sul Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-castello-scaligero-di-sirmione",
+    "name": "Castello Scaligero di Sirmione",
+    "category": "museum",
+    "address": "Sirmione (BS)",
+    "latitude": 45.4925187,
+    "longitude": 10.6081892,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Castello Scaligero di Sirmione è un museo situato a Sirmione. Castello del XIII secondo circondato da acqua, con salita ripida che porta al meraviglioso panorama sul lago.",
+    "website": "https://www.google.com/maps/place/Castello+Scaligero+di+Sirmione/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_castello_scaligero_di_sirmione_01.jpg"
+    ],
+    "tags": [
+      "castle",
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 20,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Sirmione",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-grotte-di-catullo-e-museo-archeologico",
+    "name": "Grotte di Catullo e Museo Archeologico",
+    "category": "museum",
+    "address": "Sirmione (BS)",
+    "latitude": 45.5014586,
+    "longitude": 10.6066054,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Grotte di Catullo e Museo Archeologico è un museo situato a Sirmione. Rovine di un'imponente villa romana sul mare con oliveto e museo archeologico nelle vicinanze.",
+    "website": "https://www.google.com/maps/place/Grotte+di+Catullo+e+Museo+Archeologico+di+Sirmione/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_grotte_di_catullo_e_museo_archeologico_01.jpg"
+    ],
+    "tags": [
+      "archaeology",
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 21,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Sirmione",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-limonaia-del-castel",
+    "name": "Limonaia del Castèl",
+    "category": "museum",
+    "address": "Limone sul Garda (BS)",
+    "latitude": 45.8154677,
+    "longitude": 10.7918941,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Limonaia del Castèl è un museo situato a Limone sul Garda. È dedicato alla storia locale, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Limonaia+del+Cast%C3%A8l/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_limonaia_del_castel_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "lemon",
+      "museum",
+      "tradition"
+    ],
+    "priority": 22,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Limone sul Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-limonaia-pra-dela-fam",
+    "name": "Limonaia Pra dela Fam",
+    "category": "museum",
+    "address": "Tignale (BS)",
+    "latitude": 45.7281704,
+    "longitude": 10.7187728,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Limonaia Pra dela Fam è un museo situato a Tignale. È dedicato alla arte e cultura, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Limonaia+Pra+dela+Fam/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_limonaia_pra_dela_fam_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "lemon",
+      "museum",
+      "tradition"
+    ],
+    "priority": 23,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Tignale",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-musa-museo-di-salo",
+    "name": "MuSa – Museo di Salò",
+    "category": "museum",
+    "address": "Salò (BS)",
+    "latitude": 45.607455,
+    "longitude": 10.5262029,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "MuSa – Museo di Salò è un museo situato a Salò. È dedicato alla storia locale, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/MuSa+-+Museo+di+Sal%C3%B2/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_musa_museo_di_salo_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 24,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Salò",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-museo-archeologico-della-valle-sabbia",
+    "name": "Museo Archeologico della Valle Sabbia",
+    "category": "museum",
+    "address": "Gavardo (BS)",
+    "latitude": 45.5846148,
+    "longitude": 10.4387879,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Museo Archeologico della Valle Sabbia è un museo situato a Gavardo. È dedicato alla archeologia del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Museo+Archeologico+della+Valle+Sabbia/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_museo_archeologico_della_valle_sabbia_01.jpg"
+    ],
+    "tags": [
+      "archaeology",
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 25,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Gavardo",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-museo-civico-archeologico-giovanni-rambotti",
+    "name": "Museo Civico Archeologico “Giovanni Rambotti”",
+    "category": "museum",
+    "address": "Desenzano del Garda (BS)",
+    "latitude": 45.468322,
+    "longitude": 10.5439222,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Museo Civico Archeologico “Giovanni Rambotti” è un museo situato a Desenzano del Garda. È dedicato alla archeologia del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Museo+Civico+Archeologico+%22Giovanni+Rambotti%22/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_museo_civico_archeologico_giovanni_rambotti_01.jpg"
+    ],
+    "tags": [
+      "archaeology",
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 26,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Desenzano del Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-museo-civico-archeologico-della-valtenesi",
+    "name": "Museo Civico Archeologico della Valtenesi",
+    "category": "museum",
+    "address": "Manerba del Garda (BS)",
+    "latitude": 45.5562858,
+    "longitude": 10.568843,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Museo Civico Archeologico della Valtenesi è un museo situato a Manerba del Garda. È dedicato alla archeologia del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Museo+Civico+Archeologico+della+Valtenesi/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_museo_civico_archeologico_della_valtenesi_01.jpg"
+    ],
+    "tags": [
+      "archaeology",
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 27,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Manerba del Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-museo-della-carta",
+    "name": "Museo della Carta",
+    "category": "museum",
+    "address": "Toscolano Maderno (BS)",
+    "latitude": 45.649434,
+    "longitude": 10.6040369,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Museo della Carta è un museo situato a Toscolano Maderno. È dedicato alla storia locale, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Museo+della+Carta/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_museo_della_carta_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 28,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Toscolano Maderno",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-museo-del-parco-alto-garda-bresciano",
+    "name": "Museo del Parco Alto Garda Bresciano",
+    "category": "museum",
+    "address": "Tignale (BS)",
+    "latitude": 45.7533181,
+    "longitude": 10.7365397,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Museo del Parco Alto Garda Bresciano è un museo situato a Tignale. È dedicato alla storia locale, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Museo+Del+Parco+Alto+Garda+Bresciano/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_museo_del_parco_alto_garda_bresciano_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum",
+      "nature",
+      "science"
+    ],
+    "priority": 29,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Tignale",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor",
+      "nature"
+    ]
+  },
+  {
+    "id": "garda-lombardia-museo-del-turismo",
+    "name": "Museo del Turismo",
+    "category": "museum",
+    "address": "Limone sul Garda (BS)",
+    "latitude": 45.815003,
+    "longitude": 10.793162,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Museo del Turismo è un museo situato a Limone sul Garda. È dedicato alla storia locale, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Museo+del+Turismo/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_museo_del_turismo_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 30,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Limone sul Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-museo-dei-pescatori",
+    "name": "Museo dei Pescatori",
+    "category": "museum",
+    "address": "Limone sul Garda (BS)",
+    "latitude": 45.8139539,
+    "longitude": 10.793365,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Museo dei Pescatori è un museo situato a Limone sul Garda. È dedicato alla tradizioni della pesca, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Museo+dei+Pescatori/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_museo_dei_pescatori_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "fishing",
+      "garda",
+      "indoor",
+      "lake",
+      "museum",
+      "tradition"
+    ],
+    "priority": 31,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Limone sul Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-museo-del-xx-secolo",
+    "name": "Museo del XX secolo",
+    "category": "museum",
+    "address": "Desenzano del Garda (BS)",
+    "latitude": 45.4615734,
+    "longitude": 10.5674175,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Museo del XX secolo è un museo situato a Desenzano del Garda. È dedicato alla storia e cultura del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Museo+del+XX+secolo/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_museo_del_xx_secolo_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 32,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Desenzano del Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-mu-re-museo-recuperanti-1915-1918-alto-garda-bresciano",
+    "name": "MU.RE. Museo Recuperanti 1915-1918 Alto Garda Bresciano",
+    "category": "museum",
+    "address": "Toscolano Maderno / Gargnano (BS)",
+    "latitude": 45.6378382,
+    "longitude": 10.6014311,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "MU.RE. Museo Recuperanti 1915-1918 Alto Garda Bresciano è un museo situato a Toscolano Maderno / Gargnano. È dedicato alla storia e cultura del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/MU.RE.+Museo+Recuperanti+1915-1918+Alto+Garda+Bresciano/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_mu_re_museo_recuperanti_1915_1918_alto_garda_bresciano_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 33,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Toscolano Maderno / Gargnano",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-museo-dannunzio-eroe-complesso-vittoriale",
+    "name": "Museo D’Annunzio Eroe (complesso Vittoriale)",
+    "category": "museum",
+    "address": "Gardone Riviera (BS)",
+    "latitude": 45.6248115,
+    "longitude": 10.5652324,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Museo D’Annunzio Eroe (complesso Vittoriale) è un museo situato a Gardone Riviera. È dedicato alla storia e cultura del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Museo+D'Annunzio+Eroe/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_museo_dannunzio_eroe_complesso_vittoriale_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 34,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Gardone Riviera",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-regia-nave-puglia-vittoriale",
+    "name": "Regia nave Puglia",
+    "category": "museum",
+    "address": "Gardone Riviera (BS)",
+    "latitude": 45.6252019,
+    "longitude": 10.5665416,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Regia nave Puglia è un museo situato a Gardone Riviera. È dedicato alla storia e cultura del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Regia+nave+Puglia/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_regia_nave_puglia_vittoriale_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 35,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Gardone Riviera",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-vittoriale-degli-italiani",
+    "name": "Vittoriale degli Italiani",
+    "category": "museum",
+    "address": "Gardone Riviera (BS)",
+    "latitude": 45.6240666,
+    "longitude": 10.5651282,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Vittoriale degli Italiani è un museo situato a Gardone Riviera. È dedicato alla storia locale, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Vittoriale+degli+Italiani/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_vittoriale_degli_italiani_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "indoor",
+      "lake",
+      "museum"
+    ],
+    "priority": 36,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Gardone Riviera",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-villa-bettoni",
+    "name": "Villa Bettoni",
+    "category": "museum",
+    "address": "Gargnano (BS)",
+    "latitude": 45.6770924,
+    "longitude": 10.6531829,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Villa Bettoni è un museo situato a Gargnano. È dedicato alla storia e cultura del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Villa+Bettoni/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_villa_bettoni_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "museum",
+      "villa"
+    ],
+    "priority": 37,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Gargnano",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-villa-romana-e-antiquarium-di-desenzano-del-garda",
+    "name": "Villa Romana e Antiquarium di Desenzano del Garda",
+    "category": "museum",
+    "address": "Desenzano del Garda (BS)",
+    "latitude": 45.4731879,
+    "longitude": 10.5380863,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Villa Romana e Antiquarium di Desenzano del Garda è un museo situato a Desenzano del Garda. È dedicato alla storia e cultura del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Villa+Romana+e+Antiquarium+di+Desenzano+del+Garda/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_villa_romana_e_antiquarium_di_desenzano_del_garda_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "museum",
+      "villa"
+    ],
+    "priority": 38,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Desenzano del Garda",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-villa-romana-dei-nonii-arrii",
+    "name": "Villa romana dei Nonii Arrii",
+    "category": "museum",
+    "address": "Toscolano Maderno (BS)",
+    "latitude": 45.6432919,
+    "longitude": 10.6182723,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Villa romana dei Nonii Arrii è un museo situato a Toscolano Maderno. È dedicato alla archeologia del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.com/maps/place/Villa+romana+dei+Nonii+Arrii/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_villa_romana_dei_nonii_arrii_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "garda",
+      "history",
+      "indoor",
+      "lake",
+      "museum",
+      "villa"
+    ],
+    "priority": 39,
+    "source": "musei_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Toscolano Maderno",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "garda-trentino-parco-giochi-di-torbole",
+    "name": "Parco giochi di Torbole",
+    "category": "playground",
+    "address": "Torbole sul Garda (TN)",
+    "latitude": 45.871647,
+    "longitude": 10.8754892,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Parco giochi di Torbole è un playground situato a Torbole sul Garda.",
+    "website": "https://www.google.com/maps/place/Parco+Giochi+di+Torbole/",
+    "pictures": [
+      "poi_images/POI_garda_trentino_parco_giochi_di_torbole_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 1,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Torbole sul Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-trentino-parco-giochi-riva-torbole",
+    "name": "Parco giochi (Riva-Torbole)",
+    "category": "playground",
+    "address": "Riva del Garda (TN)",
+    "latitude": 45.8816309,
+    "longitude": 10.8500853,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Parco giochi (Riva-Torbole) è un playground situato a Riva del Garda.",
+    "website": "https://www.google.com/maps/place/Parco+giochi/@45.8816309,10.8500853",
+    "pictures": [
+      "poi_images/POI_garda_trentino_parco_giochi_riva_torbole_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 2,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Riva del Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-trentino-baby-luna-park-by-chiosco57",
+    "name": "Baby Luna Park by Chiosco57",
+    "category": "playground",
+    "address": "Torbole sul Garda (TN)",
+    "latitude": 45.8797884,
+    "longitude": 10.8591444,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Baby Luna Park by Chiosco57 è un playground situato a Torbole sul Garda. Luna park estivo",
+    "website": "https://www.google.com/maps/place/BABY+LUNA+PARK+by+CHIOSCO57/",
+    "pictures": [
+      "poi_images/POI_garda_trentino_baby_luna_park_by_chiosco57_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 3,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Torbole sul Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-trentino-area-giochi-bambini-torbole",
+    "name": "Area giochi bambini (Torbole)",
+    "category": "playground",
+    "address": "Torbole sul Garda (TN)",
+    "latitude": 45.8695086,
+    "longitude": 10.8740981,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Area giochi bambini (Torbole) è un playground situato a Torbole sul Garda.",
+    "website": "https://www.google.com/maps/place/Area+giochi+bambini/@45.8695086,10.8740981",
+    "pictures": [
+      "poi_images/POI_garda_trentino_area_giochi_bambini_torbole_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 4,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Torbole sul Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-trentino-parco-giochi-s-alessandro",
+    "name": "Parco giochi S. Alessandro",
+    "category": "playground",
+    "address": "Riva del Garda (TN)",
+    "latitude": 45.8882236,
+    "longitude": 10.8631926,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Parco giochi S. Alessandro è un playground situato a Riva del Garda.",
+    "website": "https://www.google.com/maps/place/Parco+giochi+s.+Alessandro/",
+    "pictures": [
+      "poi_images/POI_garda_trentino_parco_giochi_s_alessandro_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 5,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Riva del Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-trentino-parco-dell-ora",
+    "name": "Parco dell'Ora",
+    "category": "park",
+    "address": "Riva del Garda (TN)",
+    "latitude": 45.8831951,
+    "longitude": 10.847499,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Parco dell'Ora è un park situato a Riva del Garda. Garda Trentino Parco urbano sul lago",
+    "website": "https://www.google.com/maps/place/Parco+dell'Ora/",
+    "pictures": [
+      "poi_images/POI_garda_trentino_parco_dell_ora_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 7,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Riva del Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-trentino-parco-giochi-attrezzato-per-bambini-riva-nord",
+    "name": "Parco giochi attrezzato per bambini (Riva nord)",
+    "category": "playground",
+    "address": "Arco/Riva del Garda (TN)",
+    "latitude": 45.8957946,
+    "longitude": 10.8471168,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Parco giochi attrezzato per bambini (Riva nord) è un playground situato a Arco/Riva del Garda. Garda Trentino Parco giochi attrezzato",
+    "website": "https://www.google.com/maps/place/Parco+giochi+attrezzato+per+bambini/",
+    "pictures": [
+      "poi_images/POI_garda_trentino_parco_giochi_attrezzato_per_bambini_riva_nord_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 8,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Arco/Riva del Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-trentino-parco-avventura-busatte-adventure-sentiero-busatte-tempesta",
+    "name": "Parco Avventura Busatte Adventure / Sentiero Busatte-Tempesta",
+    "category": "adventure_park",
+    "address": "Torbole sul Garda (TN)",
+    "latitude": 45.8640323,
+    "longitude": 10.880642,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Inserito nella fresca pineta del Parco delle Busatte, offre emozionanti e divertenti percorsi acrobatici, tra i 2 e i 10 metri, ideali per tutta la famiglia",
+    "website": "http://www.busatteadventure.com/",
+    "pictures": [
+      "poi_images/POI_garda_trentino_parco_avventura_busatte_adventure_sentiero_busatte_tempesta_01.jpg"
+    ],
+    "tags": [
+      "adventure",
+      "garda",
+      "kids",
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 9,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 5,
+    "age_max": 14,
+    "location": "Torbole sul Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-trentino-parco-delle-busatte",
+    "name": "Parco delle Busatte",
+    "category": "playground",
+    "address": "Torbole sul Garda (TN)",
+    "latitude": 45.8654836,
+    "longitude": 10.8822752,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Parco delle Busatte grande parco giochi,area verde con vista lago.",
+    "website": "https://www.google.com/maps/place/Parco+delle+Busatte/",
+    "pictures": [
+      "poi_images/POI_garda_trentino_parco_delle_busatte_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 10,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Torbole sul Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-trentino-parco-giochi-colline-sopra-torbole",
+    "name": "Parco giochi (colline sopra Torbole)",
+    "category": "playground",
+    "address": "Torbole sul Garda (TN)",
+    "latitude": 45.8773462,
+    "longitude": 10.8895695,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Parco giochi è un playground situato a Torbole sul Garda.",
+    "website": "https://www.google.com/maps/place/Parco+giochi/@45.8773462,10.8895695",
+    "pictures": [
+      "poi_images/POI_garda_trentino_parco_giochi_colline_sopra_torbole_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 11,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Torbole sul Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-giochi-malcesine",
+    "name": "Parco giochi (Malcesine)",
+    "category": "playground",
+    "address": "Malcesine (VR)",
+    "latitude": 45.763399,
+    "longitude": 10.808571,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco giochi è un Parco giochi, con scivoli e aree all'ombra.",
+    "website": "https://www.google.com/maps/place/Parco+giochi/@45.763399,10.808571",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_malcesine_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 12,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Malcesine",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-giochi-san-michele",
+    "name": "Parco giochi San Michele",
+    "category": "playground",
+    "address": "Malcesine - Loc. S. Michele (VR)",
+    "latitude": 45.7640203,
+    "longitude": 10.8224941,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco giochi Loc. S. Michele,in collina, vari giochi con vista lago.",
+    "website": "https://www.google.com/maps/place/Parco+giochi+San+Michele/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_san_michele_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 13,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Malcesine - Loc. S. Michele",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-giochi-panoramico",
+    "name": "Parco giochi panoramico",
+    "category": "playground",
+    "address": "Malcesine (VR)",
+    "latitude": 45.7537991,
+    "longitude": 10.7984099,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco giochi panoramico, lungo lago, con giochi e area pic nic.",
+    "website": "https://www.google.com/maps/place/Parco+giochi+panoramico/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_panoramico_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 14,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Malcesine",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-area-gioco-bambini-nel-parco-tremosine",
+    "name": "Area gioco bambini nel Parco Tremosine",
+    "category": "playground",
+    "address": "Tremosine sul Garda (BS)",
+    "latitude": 45.7736878,
+    "longitude": 10.7601875,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Area gioco bambini nel Parco a Tremosine sul Garda,area giochi, vista lago con servizi igienici",
+    "website": "https://www.google.com/maps/place/Area+gioco+bambini+nel+Parco/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_area_gioco_bambini_nel_parco_tremosine_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 15,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Tremosine sul Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-giochi-assenza-castelletto",
+    "name": "Parco giochi (Assenza/Castelletto)",
+    "category": "playground",
+    "address": "Brenzone sul Garda (VR)",
+    "latitude": 45.717830878134535,
+    "longitude": 10.778032336258539,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco giochi (Assenza/Castelletto) giochi moderni con prato sintetico.",
+    "website": "https://www.google.com/maps/place/Parco+giochi/@45.7367184,10.7923575",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_assenza_castelletto_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 16,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Brenzone sul Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-giochi-loc-sommavilla",
+    "name": "Parco giochi brenzone",
+    "category": "playground",
+    "address": "Brenzone sul Garda (VR)",
+    "latitude": 45.7217083,
+    "longitude": 10.7793826,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco giochi  è un playground situato a Brenzone sul Garda.Sulla gardesana, con vicino campetto da calcio e lungolago.",
+    "website": "https://www.google.com/maps/place/Parco+giochi/@45.7217083,10.7793826",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_loc_sommavilla_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 17,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Brenzone sul Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-giochi-brenzone-sud",
+    "name": "Parco giochi (Brenzone sud)",
+    "category": "playground",
+    "address": "Brenzone sul Garda (VR)",
+    "latitude": 45.7042483,
+    "longitude": 10.7645329,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco giochi (Brenzone sud) piccolo ma ben tenuto.",
+    "website": "https://www.google.com/maps/place/Parco+giochi/@45.7042483,10.7645329",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_brenzone_sud_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 19,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Brenzone sul Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-jungle-adventure-park",
+    "name": "Jungle Adventure Park",
+    "category": "adventure_park",
+    "address": "San Zeno di Montagna (VR)",
+    "latitude": 45.62658396477194,
+    "longitude": 10.736100549284268,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco avventura che offre percorsi sospesi su corde, zipline ad alta velocità e altri divertimenti. Adatto per adulti e bambini.",
+    "website": "http://www.jungleadventure.it/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_jungle_adventure_park_01.jpg"
+    ],
+    "tags": [
+      "adventure",
+      "garda",
+      "kids",
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 20,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 5,
+    "age_max": 14,
+    "location": "San Zeno di Montagna",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-giochi-torri-garda-est",
+    "name": "Parco giochi Torri",
+    "category": "playground",
+    "address": "Via Gardesana, 109, 37010 Torri del Benaco VR",
+    "latitude": 45.61313566339477,
+    "longitude": 10.688156173802923,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco giochi è un playground situato a Torri del Benaco, grande parco con varie attività, chiosco annesso.",
+    "website": "https://www.comune.torridelbenaco.vr.it/it",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_torri_garda_est_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 21,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Torri del Benaco",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-giochi-lago-di-garda",
+    "name": "Parco Giochi (Albisano)",
+    "category": "playground",
+    "address": "Albisano (VR)",
+    "latitude": 45.6134323,
+    "longitude": 10.7033386,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco Giochi Albisano, qui i bambini si possono divertire poi, giochi nuovi, annesso parcheggio gratuito.",
+    "website": "",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_lago_di_garda_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 22,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Albisano",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-giochi-brol-del-prete",
+    "name": "Parco giochi Brol del Prete",
+    "category": "playground",
+    "address": "San Zeno di Montagna",
+    "latitude": 45.63112,
+    "longitude": 10.7245663,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco giochi Brol del Prete situato a San Zeno di Montagna, vicino alla chiesa, con parcheggio.",
+    "website": "https://www.google.com/maps/place/Parco+giochi+Brol+del+Prete/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_brol_del_prete_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 23,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "San Zeno di Montagna",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-pubblico-delle-fontane",
+    "name": "Parco Pubblico delle Fontane",
+    "category": "playground",
+    "address": "San Zeno di Montagna",
+    "latitude": 45.6333155,
+    "longitude": 10.73004,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco Pubblico delle Fontane parco pubblico con giochi, all'ombra.",
+    "website": "https://www.google.com/maps/place/Parco+Pubblico+delle+Fontane/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_pubblico_delle_fontane_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 24,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "San Zeno di Montagna",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-giochi-affi",
+    "name": "Parco Giochi (Affi)",
+    "category": "playground",
+    "address": "Affi (VR)",
+    "latitude": 45.5523537,
+    "longitude": 10.7784568,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco Giochi, grande parco, con parcheggio gratuito.",
+    "website": "https://www.google.com/maps/place/Parco+Giochi/@45.5523537,10.7784568",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_affi_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 25,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Affi",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-giochi-garda-lungolago",
+    "name": "Parco Giochi Garda (lungolago)",
+    "category": "playground",
+    "address": "Garda (VR)",
+    "latitude": 45.577012,
+    "longitude": 10.7100397,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco Giochi Garda, vari giochi, all'ombra, con annesso campetto calcio.",
+    "website": "https://www.google.com/maps/place/Parco+Giochi+Garda/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_garda_lungolago_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 26,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-giochi-ceredello",
+    "name": "Parco Giochi Ceredello",
+    "category": "playground",
+    "address": "Caprino Veronese",
+    "latitude": 45.5921096,
+    "longitude": 10.7792817,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco Giochi Ceredello, grande area verde, con possibilità di praticare vari sport",
+    "website": "https://www.google.com/maps/place/Parco+Giochi+Ceredello/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_giochi_ceredello_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 27,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Caprino Veronese",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-giochi-via-del-porto",
+    "name": "Parco giochi (via del Porto)",
+    "category": "playground",
+    "address": "Toscolano Maderno (BS)",
+    "latitude": 45.6357843,
+    "longitude": 10.6070134,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco giochi (via del Porto) è un playground situato a Toscolano Maderno. Garda Lombardia Parco giochi",
+    "website": "https://www.google.com/maps/place/Parco+giochi/@45.6357843,10.6070134",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_giochi_via_del_porto_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 28,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Toscolano Maderno",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-bernini",
+    "name": "Parco Bernini",
+    "category": "playground",
+    "address": "Salò (BS)",
+    "latitude": 45.6422011,
+    "longitude": 10.6122555,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco Bernini è un playground situato a Salò. Garda Lombardia Parco cittadino con giochi",
+    "website": "https://www.google.com/maps/place/Parco+Bernini/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_bernini_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 29,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Salò",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-il-giocabosco",
+    "name": "Il Giocabosco",
+    "category": "park",
+    "address": "Gavardo (BS)",
+    "latitude": 45.58523356237222,
+    "longitude": 10.4507588634197,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Il Giocabosco è un park situato a Gavardo. Garda Lombardia Parco tematico per bambini",
+    "website": "https://www.google.com/maps/place/IL+GIOCABOSCO+di+Sartori+Michela/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_il_giocabosco_01.jpg"
+    ],
+    "tags": [
+      "forest",
+      "garda",
+      "lake",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 30,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Gavardo",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-giardino-pierino-ebranati",
+    "name": "Giardino Pierino Ebranati",
+    "category": "park",
+    "address": "Salò (BS)",
+    "latitude": 45.60460437980042,
+    "longitude": 10.52041787399008,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Giardino Pierino Ebranati è un park situato a Salò, giardino pubblico con giochi",
+    "website": "https://www.google.com/maps/place/Giardino+Pierino+Ebranati/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_giardino_pierino_ebranati_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "lake",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 31,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Salò",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-rimbalzello-adventure",
+    "name": "Rimbalzello Adventure",
+    "category": "adventure_park",
+    "address": "Gardone Riviera (BS)",
+    "latitude": 45.61561667982971,
+    "longitude": 10.55328101105982,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Rimbalzello Adventure è un adventure park situato a Gardone Riviera. Garda Lombardia Parco avventura",
+    "website": "https://www.google.com/maps/place/Rimbalzello+Adventure/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_rimbalzello_adventure_01.jpg"
+    ],
+    "tags": [
+      "adventure",
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "park"
+    ],
+    "priority": 32,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 5,
+    "age_max": 14,
+    "location": "Gardone Riviera",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-giochi-manerba-valtenesi",
+    "name": "Parco Giochi (Manerba/Valtenesi)",
+    "category": "playground",
+    "address": "Manerba del Garda (BS)",
+    "latitude": 45.57100259093167,
+    "longitude": 10.543501528716277,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco Giochi (Manerba/Valtenesi) è un playground situato a Manerba del Garda. Garda Lombardia Parco giochi",
+    "website": "https://www.google.com/maps/place/Parco+Giochi/@45.5624478,10.562629",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_giochi_manerba_valtenesi_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 33,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Manerba del Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-montinelle",
+    "name": "Parco Montinelle",
+    "category": "playground",
+    "address": "Manerba del Garda (BS)",
+    "latitude": 45.5498381,
+    "longitude": 10.5594525,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco Montinelle è un playground situato a Manerba del Garda. Garda Lombardia Parco giochi di frazione",
+    "website": "https://www.google.com/maps/place/Parco+Montinelle/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_montinelle_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 34,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Manerba del Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-mario-baronchelli",
+    "name": "Parco Mario Baronchelli",
+    "category": "park",
+    "address": "Roè Volciano (BS)",
+    "latitude": 45.5857347,
+    "longitude": 10.4393764,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco Mario Baronchelli è un park situato a Roè Volciano. Garda Lombardia Parco pubblico",
+    "website": "https://www.google.com/maps/place/Parco+Mario+Baronchelli/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_mario_baronchelli_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "lake",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 35,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Roè Volciano",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-giochi-puegnago-del-garda",
+    "name": "Parco Giochi Puegnago del Garda",
+    "category": "playground",
+    "address": "Puegnago del Garda (BS)",
+    "latitude": 45.5699241,
+    "longitude": 10.5112254,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco Giochi Puegnago del Garda è un playground situato a Puegnago del Garda. Garda Lombardia Parco giochi",
+    "website": "https://www.google.com/maps/place/Parco+Giochi+Puegnago+del+Garda/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_giochi_puegnago_del_garda_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 36,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Puegnago del Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-giochi-spielplatz-toscolano",
+    "name": "Parco Giochi - Spielplatz (Toscolano)",
+    "category": "playground",
+    "address": "Toscolano Maderno (BS)",
+    "latitude": 45.6212865,
+    "longitude": 10.5630759,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco Giochi - Spielplatz (Toscolano) è un playground situato a Toscolano Maderno. Garda Lombardia Parco giochi",
+    "website": "https://www.google.com/maps/place/Parco+Giochi+-+Spielplatz/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_giochi_spielplatz_toscolano_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 37,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Toscolano Maderno",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-giochi-valtenesi",
+    "name": "Parco giochi (Valtenesi)",
+    "category": "playground",
+    "address": "Strada Provinciale 39, 25080 Pieve Vecchia BS",
+    "latitude": 45.5634526,
+    "longitude": 10.5464663,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco giochi (Valtenesi) è un playground situato a Pieve Vecchia. Garda Lombardia Parco giochi",
+    "website": "https://www.google.com/maps/place/Parco+giochi/@45.5634526,10.5464663",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_giochi_valtenesi_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 38,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Pieve Vecchia",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parchetto-giochi",
+    "name": "Parchetto giochi",
+    "category": "playground",
+    "address": "Via Guglielmo Marconi, 77, 25077 Roé BS",
+    "latitude": 45.625664,
+    "longitude": 10.498539,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parchetto giochi è un playground situato a Roé. Garda Lombardia Piccola area giochi, con prato sintetico.",
+    "website": "https://www.google.com/maps/place/Parchetto+giochi/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parchetto_giochi_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 39,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Roé",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-dott-giovanni-gentili",
+    "name": "Parco Dott. Giovanni Gentili",
+    "category": "park",
+    "address": "Salò (BS)",
+    "latitude": 45.6024323,
+    "longitude": 10.5173003,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco Dott. Giovanni Gentili è un park situato a Salò. Garda Lombardia Parco urbano",
+    "website": "https://www.google.com/maps/place/Parco+Dott.+Giovanni+Gentili/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_dott_giovanni_gentili_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "lake",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 40,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Salò",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-giardini-marinai-d-italia",
+    "name": "Parco giochi Maratona",
+    "category": "playground",
+    "address": "Desenzano del Garda (BS)",
+    "latitude": 45.468725308981924,
+    "longitude": 10.544257515412001,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco giochi Maratona è un playground situato a Desenzano del Garda. Garda Lombardia Parco sul lungolago con giochi",
+    "website": "https://www.google.com/maps/place/Giardini+Marinai+d'Italia/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_giardini_marinai_d_italia_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 41,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Desenzano del Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-giochi-sirmione",
+    "name": "Parco Giochi Sirmione",
+    "category": "playground",
+    "address": "Sirmione (BS)",
+    "latitude": 45.4946549,
+    "longitude": 10.6071258,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco Giochi Sirmione è un playground situato a Sirmione. Garda Lombardia Parco giochi sul lago",
+    "website": "https://www.google.com/maps/place/Parco+Giochi+Sirmione/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_giochi_sirmione_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 43,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Sirmione",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-del-laghetto",
+    "name": "Parco del Laghetto",
+    "category": "park",
+    "address": "Via Giotto, 96, 25015 Desenzano del Garda BS",
+    "latitude": 45.4588889,
+    "longitude": 10.5519444,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco del Laghetto è un park situato a Desenzano del Garda. Garda Lombardia Parco urbano con laghetto",
+    "website": "https://www.google.com/maps/place/Parco+del+Laghetto/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_del_laghetto_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "lake",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 44,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Desenzano del Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-don-giussani",
+    "name": "Parco Don Giussani",
+    "category": "playground",
+    "address": "Parco Pubblico, Via Sorre, 5, 25010 Pozzolengo BS",
+    "latitude": 45.4051685,
+    "longitude": 10.628223,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco Don Giussani è un playground situato a Pozzolengo. Garda Lombardia Parco giochi",
+    "website": "https://www.google.com/maps/place/Parco+Don+Giussani/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_don_giussani_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 45,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Pozzolengo",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-pastore",
+    "name": "Parco Pastore",
+    "category": "park",
+    "address": "Viale Erasmo Boschetti, 46043 Castiglione delle Stiviere MN",
+    "latitude": 45.39248766721698,
+    "longitude": 10.484863219142028,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco Pastore è un park situato a Castiglione delle Stiviere. Garda Lombardia Parco pubblico",
+    "website": "https://www.google.com/maps/place/Parco+Pastore/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_pastore_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "lake",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 46,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Castiglione delle Stiviere",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-giochi-rivoltella",
+    "name": "Parco Giochi",
+    "category": "playground",
+    "address": "Via Umbria, 3, 25019 Sirmione BS",
+    "latitude": 45.46695,
+    "longitude": 10.6053192,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco Giochi è un playground situato a Sirmione. Garda Lombardia Parco giochi",
+    "website": "https://www.google.com/maps/place/Parco+Giochi/@45.46695,10.6053192",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_giochi_rivoltella_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 47,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Sirmione",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-piu",
+    "name": "Parco Più",
+    "category": "playground",
+    "address": "Via Giacomo Matteotti, 25011 Calcinato BS",
+    "latitude": 45.454185815188005,
+    "longitude": 10.417681727698106,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco Più è un playground situato a Calcinato. Garda Lombardia Parco giochi / area bimbi",
+    "website": "https://www.google.com/maps/place/Parco+Pi%C3%B9/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_piu_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 48,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Calcinato",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-delle-pozze",
+    "name": "Parco delle Pozze",
+    "category": "playground",
+    "address": "Via Lombardia, 22, 25017 Lonato BS",
+    "latitude": 45.4659147,
+    "longitude": 10.4732401,
+    "destination_id": "lago_di_garda_lombardia",
+    "description": "Parco delle Pozze è un playground situato a Lonato. Garda Lombardia Parco pubblico con giochi",
+    "website": "https://www.google.com/maps/place/Parco+Delle+pozze/",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_delle_pozze_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 49,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Lonato",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-lombardia-parco-giochi-bergamini",
+    "name": "Parco Giochi Bergamini",
+    "category": "playground",
+    "address": "37019 Peschiera del Garda VR",
+    "latitude": 45.4505044,
+    "longitude": 10.6715851,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco Giochi Bergamini è un playground situato a SPeschiera del Garda.Parco giochi sul lago",
+    "website": "https://www.google.com/maps/place/Parco+Giochi/@45.4505044,10.6715851",
+    "pictures": [
+      "poi_images/POI_garda_lombardia_parco_giochi_bergamini_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 50,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Peschiera del Garda",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-educazione-stradale",
+    "name": "Parco Educazione Stradale",
+    "category": "park",
+    "address": "Lazise",
+    "latitude": 45.4782413,
+    "longitude": 10.7326029,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco Educazione Stradale, ottimo per imparare la segnaletica stradale in modo divertente.",
+    "website": "https://www.google.com/maps/place/Parco+Educazione+Stradale/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_educazione_stradale_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "lake",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 51,
+    "source": "parchi_garda_completo_con_foto.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Lazise",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "valsugana-parco-tre-castagni",
+    "name": "Parco Tre Castagni",
+    "category": "park",
+    "address": "Pergine Valsugana",
+    "latitude": 46.06274102641874,
+    "longitude": 11.25076218354901,
+    "destination_id": "trentino",
+    "description": "Parco Tre Castagni è un park situato a Pergine Valsugana. Valsugana Parco pubblico molto grande.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Tre+Castagni+Valsugana+%E2%80%94+Parco+pubblico+%E2%80%94+Pergine+Valsugana",
+    "pictures": [
+      "poi_images/POI_valsugana_parco_tre_castagni_01.jpg"
+    ],
+    "tags": [
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 1,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Pergine Valsugana",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "alpe-cimbra-parco-palu",
+    "name": "Parco Palù",
+    "category": "park",
+    "address": "SP216, 5, 38046 Gionghi Cappella TN",
+    "latitude": 45.93516994120636,
+    "longitude": 11.276199852850853,
+    "destination_id": "trentino",
+    "description": "Parco Palù è un park situato a Cappella. Alpe Cimbra Parco naturale attrezzato, con laghetto.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Pal%C3%B9+Alpe+Cimbra+%E2%80%94+Parco+naturale+attrezzato+%E2%80%94+Lavarone",
+    "pictures": [
+      "poi_images/POI_alpe_cimbra_parco_palu_01.jpg"
+    ],
+    "tags": [
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 2,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Cappella",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "tesino-parco-nuovo-di-pieve-tesino",
+    "name": "Parco Nuovo di Pieve Tesino",
+    "category": "playground",
+    "address": "Pieve Tesino",
+    "latitude": 46.06758851337724,
+    "longitude": 11.6025928210284,
+    "destination_id": "trentino",
+    "description": "Parco Nuovo di Pieve Tesino è un playground situato a Pieve Tesino. Tesino Parco giochi recintato",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Nuovo+di+Pieve+Tesino+Tesino+%E2%80%94+Parco+giochi+recintato+%E2%80%94+Pieve+Tesino",
+    "pictures": [
+      "poi_images/POI_tesino_parco_nuovo_di_pieve_tesino_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 3,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Pieve Tesino",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "trento-parco-giochi-alpino-e-giardino-geologico",
+    "name": "Parco Giochi Alpino e Giardino Geologico",
+    "category": "playground",
+    "address": "Trento",
+    "latitude": 46.07207162425086,
+    "longitude": 11.120673272448558,
+    "destination_id": "trentino",
+    "description": "Parco Giochi Alpino e Giardino Geologico è un playground situato a Trento. Parco scientifico-didattico",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Giochi+Alpino+e+Giardino+Geologico+Trento+%E2%80%94+Parco+scientifico-didattico+%E2%80%94+Trento",
+    "pictures": [
+      "poi_images/POI_trento_parco_giochi_alpino_e_giardino_geologico_01.jpg"
+    ],
+    "tags": [
+      "education",
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground",
+      "science"
+    ],
+    "priority": 4,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Trento",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "andalo-andalo-life-family-park",
+    "name": "Andalo Life Family Park",
+    "category": "playground",
+    "address": "Andalo",
+    "latitude": 46.169505032089084,
+    "longitude": 11.005085656710254,
+    "destination_id": "trentino",
+    "description": "Andalo Life è il parco della felicità: acquapark, giochi, spa, natura e attività tutto l’anno. Divertimento garantito per grandi e piccoli, con ogni tempo.",
+    "website": "https://www.andaloforfamily.com/it/inverno-andalo-life",
+    "pictures": [
+      "poi_images/POI_andalo_andalo_life_family_park_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 5,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Andalo",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "primiero-parco-di-vallombrosa",
+    "name": "Parco di Vallombrosa",
+    "category": "park",
+    "address": "Fiera di Primiero",
+    "latitude": 46.18049549883761,
+    "longitude": 11.830185568209936,
+    "destination_id": "trentino",
+    "description": "Parco di Vallombrosa è un park situato a Fiera di Primiero. Primiero Parco tematico,casette in legno.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+di+Vallombrosa+Primiero+%E2%80%94+Parco+tematico+%E2%80%94+Fiera+di+Primiero",
+    "pictures": [
+      "poi_images/POI_primiero_parco_di_vallombrosa_01.jpg"
+    ],
+    "tags": [
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 6,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Fiera di Primiero",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "paganella-sarnacli-mountain-park",
+    "name": "Sarnacli Mountain Park",
+    "category": "adventure_park",
+    "address": "Loc. Plan dei Sarnacli, 38010 Andalo TN",
+    "latitude": 46.16379697153251,
+    "longitude": 10.987712583554583,
+    "destination_id": "trentino",
+    "description": "Sarnacli Mountain Park è un adventure park situato a Andalo. Percorrendo tutte le 13 tappe del percorso libero e gratuito con i vostri bambini,potrete vivere in maniera figurata tutti gli ambienti del Parco Naturale Adamello Brenta.",
+    "website": "https://www.andalo.life/it/parchi-divertimento/sarnacli-mountain-park",
+    "pictures": [
+      "poi_images/POI_paganella_sarnacli_mountain_park_01.jpg"
+    ],
+    "tags": [
+      "adventure",
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 7,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 5,
+    "age_max": 14,
+    "location": "Andalo",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "passo-del-tonale-villaggio-delle-marmotte",
+    "name": "Villaggio delle Marmotte",
+    "category": "playground",
+    "address": "Malga Valbiolo, 38029 Vermiglio TN",
+    "latitude": 46.28066871841541,
+    "longitude": 10.581540525888265,
+    "destination_id": "trentino",
+    "description": "Villaggio delle Marmotte è un playground situato a Vermiglio. Ideale per bambini dove possono giocare con diversi scivoli",
+    "website": "https://www.google.com/maps/search/?api=1&query=Villaggio+delle+Marmotte+Passo+del+Tonale+%E2%80%94+Parco+in+quota+%E2%80%94+Passo+del+Tonale",
+    "pictures": [
+      "poi_images/POI_passo_del_tonale_villaggio_delle_marmotte_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 8,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Vermiglio",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "trento-parco-di-melta",
+    "name": "Parco di Melta",
+    "category": "park",
+    "address": "Trento Nord",
+    "latitude": 46.09769686471112,
+    "longitude": 11.114745895187053,
+    "destination_id": "trentino",
+    "description": "Parco di Melta è un park situato a Trento Nord. Trento Parco urbano,grande area verde con laghetto.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+di+Melta+Trento+%E2%80%94+Parco+urbano+%E2%80%94+Trento+Nord",
+    "pictures": [
+      "poi_images/POI_trento_parco_di_melta_01.jpg"
+    ],
+    "tags": [
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 9,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Trento Nord",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "trento-parco-di-mattarello",
+    "name": "Parco di Mattarello",
+    "category": "park",
+    "address": "Mattarello",
+    "latitude": 46.0079657968565,
+    "longitude": 11.130170823433474,
+    "destination_id": "trentino",
+    "description": "Parco di Mattarello è un park situato a Mattarello. Trento Parco urbano",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+di+Mattarello+Trento+%E2%80%94+Parco+urbano+%E2%80%94+Mattarello",
+    "pictures": [
+      "poi_images/POI_trento_parco_di_mattarello_01.jpg"
+    ],
+    "tags": [
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 10,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Mattarello",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "monte-bondone-parco-giochi-viote",
+    "name": "Parco Giochi Viote",
+    "category": "playground",
+    "address": "Viote del Monte Bondone",
+    "latitude": 46.02388984089349,
+    "longitude": 11.038668795183028,
+    "destination_id": "trentino",
+    "description": "Parco Giochi Viote è un playground situato a Viote del Monte Bondone. Vicino al rifugio e al giradino botanico.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Giochi+Viote+Monte+Bondone+%E2%80%94+Parco+naturale+%E2%80%94+Viote+del+Monte+Bondone",
+    "pictures": [
+      "poi_images/POI_monte_bondone_parco_giochi_viote_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 11,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Viote del Monte Bondone",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-fiemme-giro-dali-parco-giochi",
+    "name": "Giro d’Ali Parco Giochi",
+    "category": "playground",
+    "address": "Bellamonte – Predazzo",
+    "latitude": 46.31307248848962,
+    "longitude": 11.68862018170811,
+    "destination_id": "trentino",
+    "description": "Giro d’Ali Parco Giochi è un playground situato a Bellamonte – Predazzo. Val di Fiemme Parco tematico con acqua. Possibilità di salita in cabinovia o a piedi tramire sentiero.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Giro+d%E2%80%99Ali+Parco+Giochi+Val+di+Fiemme+%E2%80%94+Parco+tematico+con+acqua+%E2%80%94+Bellamonte+%E2%80%93+Predazzo",
+    "pictures": [
+      "poi_images/POI_val_di_fiemme_giro_dali_parco_giochi_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 12,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Bellamonte – Predazzo",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "valsugana-parco-delle-terme-di-levico",
+    "name": "Parco delle Terme di Levico",
+    "category": "playground",
+    "address": "Levico Terme",
+    "latitude": 46.00990645984258,
+    "longitude": 11.30563169725793,
+    "destination_id": "trentino",
+    "description": "Parco delle Terme di Levico è un playground situato a Levico Terme. Valsugana Parco storico con area giochi",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+delle+Terme+di+Levico+Valsugana+%E2%80%94+Parco+storico+con+area+giochi+%E2%80%94+Levico+Terme",
+    "pictures": [
+      "poi_images/POI_valsugana_parco_delle_terme_di_levico_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 14,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Levico Terme",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "valsugana-baby-park-panarotta",
+    "name": "Baby Park Panarotta",
+    "category": "playground",
+    "address": "Panarotta",
+    "latitude": 46.05055137094346,
+    "longitude": 11.33500970619494,
+    "destination_id": "trentino",
+    "description": "Baby Park Panarotta è un playground situato a Panarotta. Valsugana Baby park montano,con attività estive e invernali.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Baby+Park+Panarotta+Valsugana+%E2%80%94+Baby+park+montano+%E2%80%94+Panarotta",
+    "pictures": [
+      "poi_images/POI_valsugana_baby_park_panarotta_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 15,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Panarotta",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "valsugana-parco-giarete",
+    "name": "Parco Giarete",
+    "category": "park",
+    "address": "Pergine Valsugana",
+    "latitude": 46.0650315,
+    "longitude": 11.2355107,
+    "destination_id": "trentino",
+    "description": "Parco Giarete è un park situato a Pergine Valsugana. Valsugana Parco pubblico",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Giarete+Valsugana+%E2%80%94+Parco+pubblico+%E2%80%94+Pergine+Valsugana",
+    "pictures": [
+      "poi_images/POI_valsugana_parco_giarete_01.jpg"
+    ],
+    "tags": [
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 16,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Pergine Valsugana",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "valsugana-parco-giochi-pergine-est",
+    "name": "Parco Giochi San Cristoforo",
+    "category": "playground",
+    "address": "Pergine Valsugana",
+    "latitude": 46.038241743220674,
+    "longitude": 11.237066678640144,
+    "destination_id": "trentino",
+    "description": "Parco Giochi San Cristoforo è un playground situato a Pergine Valsugana. Valsugana Parco giochi",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Giochi+%28Pergine+est%29+Valsugana+%E2%80%94+Parco+giochi+%E2%80%94+Pergine+Valsugana",
+    "pictures": [
+      "poi_images/POI_valsugana_parco_giochi_pergine_est_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 17,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Pergine Valsugana",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "valsugana-parco-marconi-via-alda-merini",
+    "name": "Parco Marconi – via Alda Merini",
+    "category": "park",
+    "address": "Pergine Valsugana",
+    "latitude": 46.0685299,
+    "longitude": 11.2492007,
+    "destination_id": "trentino",
+    "description": "Parco Marconi – via Alda Merini è un park situato a Pergine Valsugana. Valsugana Parco urbano",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Marconi+%E2%80%93+via+Alda+Merini+Valsugana+%E2%80%94+Parco+urbano+%E2%80%94+Pergine+Valsugana",
+    "pictures": [
+      "poi_images/POI_valsugana_parco_marconi_via_alda_merini_01.jpg"
+    ],
+    "tags": [
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 18,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Pergine Valsugana",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "valsugana-parco-giochi-san-cristoforo",
+    "name": "Parco Giochi Canale",
+    "category": "playground",
+    "address": "Pergine Valsugana",
+    "latitude": 46.0441767,
+    "longitude": 11.226312,
+    "destination_id": "trentino",
+    "description": "Parco Giochi Canale è un playground situato a Pergine Valsugana. Valsugana Parco giochi",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Giochi+%28San+Cristoforo%29+Valsugana+%E2%80%94+Parco+giochi+%E2%80%94+Pergine+Valsugana",
+    "pictures": [
+      "poi_images/POI_valsugana_parco_giochi_san_cristoforo_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 19,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Pergine Valsugana",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "valsugana-parco-comunale-di-tenna",
+    "name": "Parco Comunale di Tenna",
+    "category": "park",
+    "address": "Tenna",
+    "latitude": 46.0137262,
+    "longitude": 11.2676086,
+    "destination_id": "trentino",
+    "description": "Parco Comunale di Tenna è un park situato a Tenna. Valsugana Parco comunale",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Comunale+di+Tenna+Valsugana+%E2%80%94+Parco+comunale+%E2%80%94+Tenna",
+    "pictures": [
+      "poi_images/POI_valsugana_parco_comunale_di_tenna_01.jpg"
+    ],
+    "tags": [
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 21,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Tenna",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "trento-parco-fratelli-michelin-le-albere",
+    "name": "Parco Fratelli Michelin (Le Albere)",
+    "category": "park",
+    "address": "Trento",
+    "latitude": 46.06033614096477,
+    "longitude": 11.11344984788657,
+    "destination_id": "trentino",
+    "description": "Parco Fratelli Michelin (Le Albere) è un park situato a Trento. Parco urbano,molto grande e ben tenuto.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Fratelli+Michelin+%28Le+Albere%29+Trento+%E2%80%94+Parco+urbano+%E2%80%94+Trento",
+    "pictures": [
+      "poi_images/POI_trento_parco_fratelli_michelin_le_albere_01.jpg"
+    ],
+    "tags": [
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 22,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 12,
+    "location": "Trento",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "alpe-cimbra-parco-giochi-leo-zobele",
+    "name": "Parco Giochi “Leo Zobele”",
+    "category": "playground",
+    "address": "Via al Parco, 27, 38064 Carbonare TN",
+    "latitude": 45.93562343519261,
+    "longitude": 11.230352877324687,
+    "destination_id": "trentino",
+    "description": "Parco Giochi “Leo Zobele” è un playground situato a Lavarone. Alpe Cimbra Parco comunale",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Giochi+%E2%80%9CLeo+Zobele%E2%80%9D+Alpe+Cimbra+%E2%80%94+Parco+comunale+%E2%80%94+Lavarone",
+    "pictures": [
+      "poi_images/POI_alpe_cimbra_parco_giochi_leo_zobele_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 23,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Lavarone",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-fiemme-parco-giochi-cavalese",
+    "name": "Parco Giochi Cavalese",
+    "category": "playground",
+    "address": "Cavalese",
+    "latitude": 46.29060209734412,
+    "longitude": 11.464161731667934,
+    "destination_id": "trentino",
+    "description": "Parco Giochi Cavalese è un playground situato a Cavalese. Val di Fiemme Parco pubblico, in centro paese.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Giochi+Cavalese+Val+di+Fiemme+%E2%80%94+Parco+pubblico+%E2%80%94+Cavalese",
+    "pictures": [
+      "poi_images/POI_val_di_fiemme_parco_giochi_cavalese_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 24,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Cavalese",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-fiemme-cermislandia-parco-bambini",
+    "name": "Cermislandia Parco Bambini",
+    "category": "playground",
+    "address": "Alpe Cermis",
+    "latitude": 46.26445542913128,
+    "longitude": 11.48076040235394,
+    "destination_id": "trentino",
+    "description": "Cermislandia Parco Bambini è un playground situato a Alpe Cermis. Val di Fiemme Parco in quota,giochi d'acqua.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Cermislandia+Parco+Bambini+Val+di+Fiemme+%E2%80%94+Parco+in+quota+%E2%80%94+Alpe+Cermis",
+    "pictures": [
+      "poi_images/POI_val_di_fiemme_cermislandia_parco_bambini_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 25,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Alpe Cermis",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-fiemme-parco-divertimenti",
+    "name": "Parco Divertimenti",
+    "category": "playground",
+    "address": "Castello-Molina di Fiemme",
+    "latitude": 46.28148694778872,
+    "longitude": 11.43508214510794,
+    "destination_id": "trentino",
+    "description": "Parco Divertimenti è un playground situato a Castello-Molina di Fiemme. Val di Fiemme Parco giochi,centro paese, parcheggio vicino.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Divertimenti+Val+di+Fiemme+%E2%80%94+Parco+giochi+%E2%80%94+Castello-Molina+di+Fiemme",
+    "pictures": [
+      "poi_images/POI_val_di_fiemme_parco_divertimenti_01.jpg"
+    ],
+    "tags": [
+      "castle",
+      "culture",
+      "history",
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 26,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Castello-Molina di Fiemme",
+    "environment": "outdoor",
+    "macro_category": [
+      "culture",
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-fassa-parco-giochi-pozza-di-fassa",
+    "name": "Parco Giochi Pozza di Fassa",
+    "category": "playground",
+    "address": "Pozza di Fassa",
+    "latitude": 46.43084492167618,
+    "longitude": 11.689057333353542,
+    "destination_id": "trentino",
+    "description": "Parco Giochi Pozza di Fassa è un playground situato a Pozza di Fassa. Val di Fassa Parco pubblico",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Giochi+Pozza+di+Fassa+Val+di+Fassa+%E2%80%94+Parco+pubblico+%E2%80%94+Pozza+di+Fassa",
+    "pictures": [
+      "poi_images/POI_val_di_fassa_parco_giochi_pozza_di_fassa_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 27,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Pozza di Fassa",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-fassa-parco-giochi-mazzin",
+    "name": "Parco Giochi Mazzin",
+    "category": "playground",
+    "address": "Mazzin",
+    "latitude": 46.46089409375663,
+    "longitude": 11.71528109088112,
+    "destination_id": "trentino",
+    "description": "Parco Giochi Mazzin è un playground situato a Mazzin. Grande area verde sul fiume Avisio, con prati ben tenuti, attrezzato con panchine e  fontanelle, tavoli da pic nic.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Giochi+Mazzin+Val+di+Fassa+%E2%80%94+Parco+comunale+%E2%80%94+Mazzin",
+    "pictures": [
+      "poi_images/POI_val_di_fassa_parco_giochi_mazzin_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 28,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Mazzin",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-fassa-parco-giochi-canazei",
+    "name": "Parco Giochi Canazei",
+    "category": "playground",
+    "address": "Canazei",
+    "latitude": 46.47613669426343,
+    "longitude": 11.76865536183938,
+    "destination_id": "trentino",
+    "description": "Parco Giochi Canazei è un playground situato a Canazei. Ci sono panchine e zone ombreggiate, ben curato, con pavimentazioni morbide in alcune aree per garantire la sicurezza dei bambini.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Giochi+Canazei+Val+di+Fassa+%E2%80%94+Parco+urbano+%E2%80%94+Canazei",
+    "pictures": [
+      "poi_images/POI_val_di_fassa_parco_giochi_canazei_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 29,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Canazei",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-fassa-parco-giochi-alba-di-canazei",
+    "name": "Parco Giochi Alba di Canazei",
+    "category": "playground",
+    "address": "Alba di Canazei",
+    "latitude": 46.46297014904104,
+    "longitude": 11.78521900122977,
+    "destination_id": "trentino",
+    "description": "Parco Giochi Alba di Canazei è un playground situato a Alba di Canazei. Zone obreggiate,tavoli pic nic, servizi igienici.",
+    "website": "https://www.google.com/maps/search/?api=1&query=Parco+Giochi+Alba+di+Canazei+Val+di+Fassa+%E2%80%94+Parco+giochi+%E2%80%94+Alba+di+Canazei",
+    "pictures": [
+      "poi_images/POI_val_di_fassa_parco_giochi_alba_di_canazei_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 30,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Alba di Canazei",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-cembra-giocabosco-di-capriana",
+    "name": "GiocaBosco di Capriana",
+    "category": "park",
+    "address": "Capriana",
+    "latitude": 46.275743537255636,
+    "longitude": 11.351726454607464,
+    "destination_id": "trentino",
+    "description": "GiocaBosco di Capriana è un park situato a Capriana. Parco naturalistico, didattico che ludico. Percorsi interattivi, pensato anche per gruppi numerosi.",
+    "website": "https://www.google.com/maps/search/?api=1&query=GiocaBosco+di+Capriana+Val+di+Cembra+%E2%80%94+Parco+naturalistico+%E2%80%94+Capriana",
+    "pictures": [
+      "poi_images/POI_val_di_cembra_giocabosco_di_capriana_01.jpg"
+    ],
+    "tags": [
+      "forest",
+      "mountain",
+      "nature",
+      "outdoor",
+      "park",
+      "science"
+    ],
+    "priority": 31,
+    "source": "parchi_giochi_trentino_completo_con_link.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Capriana",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "alta-val-di-sole-vermiglio-laghetti-di-san-leonardo-parco-giochi",
+    "name": "Laghetti di San Leonardo – parco giochi",
+    "category": "playground",
+    "address": "SP94, 64, 38029 Vermiglio TN",
+    "latitude": 46.2900398639245,
+    "longitude": 10.682388724963072,
+    "destination_id": "trentino",
+    "description": "Laghetti di San Leonardo – parco giochi è un playground situato a Vermiglio. Area verde con giochi d’acqua, sabbiera, scivoli.",
+    "website": "",
+    "pictures": [
+      "poi_images/POI_alta_val_di_sole_vermiglio_laghetti_di_san_leonardo_parco_giochi_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 1,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Vermiglio",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-rabbi-il-gioco-del-parco-coler",
+    "name": "Il Gioco del Parco – Colèr",
+    "category": "park",
+    "address": "Val di Rabbi, loc. Colèr",
+    "latitude": 46.41772519952928,
+    "longitude": 10.776479481631783,
+    "destination_id": "trentino",
+    "description": "Il Gioco del Parco – Colèr è un park situato a Val di Rabbi, loc. Colèr. Val di Rabbi Parco didattico-naturalistico (legno, acqua)",
+    "website": "",
+    "pictures": [
+      "poi_images/POI_val_di_rabbi_il_gioco_del_parco_coler_01.jpg"
+    ],
+    "tags": [
+      "education",
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "park",
+      "science"
+    ],
+    "priority": 2,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 3,
+    "age_max": 12,
+    "location": "Val di Rabbi, loc. Colèr",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-peio-pejo-kinderland",
+    "name": "Pejo Kinderland",
+    "category": "playground",
+    "address": "Peio – arrivo cabinovia (quota)",
+    "latitude": 46.370143464671656,
+    "longitude": 10.661554018644775,
+    "destination_id": "trentino",
+    "description": "Pejo Kinderland è un playground situato a Peio – arrivo cabinovia. Val di Peio Parco in quota, legno, acqua, casetta sull'albero.",
+    "website": "",
+    "pictures": [
+      "poi_images/POI_val_di_peio_pejo_kinderland_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 3,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Peio – arrivo cabinovia",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "media-val-di-sole-male-flying-park-male",
+    "name": "Flying Park Malé",
+    "category": "adventure_park",
+    "address": "Malé",
+    "latitude": 46.34965272459602,
+    "longitude": 10.922774872641773,
+    "destination_id": "trentino",
+    "description": "Flying Park Malé è un adventure park situato a Malé. Parco avventura sugli alberi",
+    "website": "http://www.flyingpark.it/",
+    "pictures": [
+      "poi_images/POI_media_val_di_sole_male_flying_park_male_01.jpg"
+    ],
+    "tags": [
+      "adventure",
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 4,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 5,
+    "age_max": 14,
+    "location": "Malé",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "ossana-boscoderniga",
+    "name": "BoscoDerniga",
+    "category": "park",
+    "address": "Sopra Ossana",
+    "latitude": 46.30502570958968,
+    "longitude": 10.731640212334721,
+    "destination_id": "trentino",
+    "description": "BoscoDerniga è una meta ideale per famiglie, un’oasi di pace dove trascorrere una giornata di tranquillità immersi nel verde e nel profumo delle rigogliose foreste",
+    "website": "http://www.boscoderniga.it/",
+    "pictures": [
+      "poi_images/POI_ossana_boscoderniga_01.jpg"
+    ],
+    "tags": [
+      "forest",
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 5,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Sopra Ossana",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "pellizzano-parco-giochi-zona-sportiva",
+    "name": "Parco giochi zona sportiva",
+    "category": "playground",
+    "address": "Pellizzano",
+    "latitude": 46.30880808408938,
+    "longitude": 10.760158060881553,
+    "destination_id": "trentino",
+    "description": "Parco giochi zona sportiva è un playground situato a Pellizzano. Parco classico, scivoli, carrucola",
+    "website": "",
+    "pictures": [
+      "poi_images/POI_pellizzano_parco_giochi_zona_sportiva_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 6,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Pellizzano",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "pellizzano-fazzon-lago-dei-caprioli-area-bimbi",
+    "name": "Lago dei Caprioli – area bimbi",
+    "category": "park",
+    "address": "Fazzon",
+    "latitude": 46.292003589911495,
+    "longitude": 10.76651180477664,
+    "destination_id": "trentino",
+    "description": "Lago dei Caprioli – area bimbi è un park situato a Fazzon. Lago, parco e sentiero adatto a bambini",
+    "website": "https://www.google.com/maps/place/Lago+dei+Caprioli/@46.2918391,10.7668247,115m/data=!3m1!1e3!4m6!3m5!1s0x4782590066b239ab:0xee60ff8a2532d3c6!8m2!3d46.2919713!4d10.766508!16s%2Fg%2F11yhyh_l38?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+    "pictures": [
+      "poi_images/POI_pellizzano_fazzon_lago_dei_caprioli_area_bimbi_01.jpg"
+    ],
+    "tags": [
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "park"
+    ],
+    "priority": 7,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Fazzon",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "commezzadura-daolasa-family-park-daolasa",
+    "name": "Family Park Daolasa",
+    "category": "playground",
+    "address": "Arrivo cabinovia Daolasa",
+    "latitude": 46.28000040678345,
+    "longitude": 10.832221446042952,
+    "destination_id": "trentino",
+    "description": "Family Park Daolasa è un playground situato a Arrivo cabinovia Daolasa. Parco in quota in legno",
+    "website": "https://www.google.com/maps/place/Family+Park+Alpe+Daolasa/@46.2798206,10.8312344,326m/data=!3m1!1e3!4m6!3m5!1s0x47825f005a7f8cf1:0x1ca3312267d2bbbd!8m2!3d46.2799337!4d10.832259!16s%2Fg%2F11lmkcjcyl?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+    "pictures": [
+      "poi_images/POI_commezzadura_daolasa_family_park_daolasa_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 8,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Arrivo cabinovia Daolasa",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "marilleva-mezzana-family-park-marilleva",
+    "name": "Family Park Marilleva",
+    "category": "park",
+    "address": "Marilleva 1400",
+    "latitude": 46.2890589927525,
+    "longitude": 10.847747796970792,
+    "destination_id": "trentino",
+    "description": "Family Park Marilleva è un park situato a Marilleva 1400. Area family su arrivo impianti, attività su neve.",
+    "website": "https://www.google.com/maps/place/Family+Park/@46.2889441,10.8451729,652m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47825f13238f63a3:0x27f91d89c7db992c!8m2!3d46.2889404!4d10.8477478!16s%2Fg%2F11fz9yynqr?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+    "pictures": [
+      "poi_images/POI_marilleva_mezzana_family_park_marilleva_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "park",
+      "playground"
+    ],
+    "priority": 9,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Marilleva 1400",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "mezzana-parco-giochi-sul-noce",
+    "name": "Parco giochi sul Noce",
+    "category": "playground",
+    "address": "Mezzana",
+    "latitude": 46.316507070219465,
+    "longitude": 10.796595008227694,
+    "destination_id": "trentino",
+    "description": "Parco giochi sul Noce è un playground situato a Mezzana. Parco vicino al fiume, presenti bagni pubblici.",
+    "website": "https://www.google.com/maps/place/Parchetto+di+Mezzana/@46.3164608,10.7952003,326m/data=!3m1!1e3!4m6!3m5!1s0x4782f7c57ac809b3:0x6abd958d924b133e!8m2!3d46.3164608!4d10.7966164!16s%2Fg%2F11rwl4m8s7?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+    "pictures": [
+      "poi_images/POI_mezzana_parco_giochi_sul_noce_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 10,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Mezzana",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "caldes-trentino-wild-area-giochi",
+    "name": "Trentino Wild – area giochi",
+    "category": "playground",
+    "address": "Caldes",
+    "latitude": 46.36142667904667,
+    "longitude": 10.943948684654451,
+    "destination_id": "trentino",
+    "description": "Trentino Wild, situato a Caldes, area giochi, avventura, servizi, multisport.",
+    "website": "https://trentinowild.it/it/informazioni/dove-siamo/base-caldes",
+    "pictures": [
+      "poi_images/POI_caldes_trentino_wild_area_giochi_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 11,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Caldes",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "dimaro-parco-giochi-il-boschetto",
+    "name": "Parco giochi “Il Boschetto”",
+    "category": "playground",
+    "address": "Dimaro",
+    "latitude": 46.32456679772879,
+    "longitude": 10.878695481627014,
+    "destination_id": "trentino",
+    "description": "Parco giochi “Il Boschetto” è un playground situato a Dimaro, parco in paese,vari giochi con ombra",
+    "website": "https://www.google.com/maps/place/Parco+Giochi+Il+Boschetto/@46.3244668,10.8761635,652m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4782f5b77051ea99:0xec294ad31e2566f6!8m2!3d46.3244631!4d10.8787384!16s%2Fg%2F11g0km6drf?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+    "pictures": [
+      "poi_images/POI_dimaro_parco_giochi_il_boschetto_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 14,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Dimaro",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-non-parco-giochi-al-bersaglio",
+    "name": "Parco giochi al Bersaglio",
+    "category": "playground",
+    "address": "Cles",
+    "latitude": 46.368352234317236,
+    "longitude": 11.019617508590963,
+    "destination_id": "trentino",
+    "description": "Parco giochi al Bersaglio è un playground situato a Cles. Val di Non Grande prato con giochi",
+    "website": "https://www.google.com/maps/place/Localit%C3%A0+Piani+-+Bersaglio/@46.3680246,11.0194029,326m/data=!3m1!1e3!4m6!3m5!1s0x47828bf52b000001:0x9bd9393c5c4fe04c!8m2!3d46.3682925!4d11.0196214!16s%2Fg%2F11x_dc24ch?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+    "pictures": [
+      "poi_images/POI_val_di_non_parco_giochi_al_bersaglio_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 15,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Cles",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-non-parco-giochi-cles",
+    "name": "Parco giochi Cles",
+    "category": "playground",
+    "address": "Cles",
+    "latitude": 46.36612885085776,
+    "longitude": 11.038000299183693,
+    "destination_id": "trentino",
+    "description": "Parco giochi Cles è un playground situato a Cles. Val di Non Parco urbano attrezzato, con terrazza panoramica.",
+    "website": "https://www.google.com/maps/place/Spielplatz+Panorama-Terrasse/@46.3661196,11.036627,326m/data=!3m1!1e3!4m6!3m5!1s0x47828bb8f5a41bf3:0x175860637d5a9ac0!8m2!3d46.3660695!4d11.0379677!16s%2Fg%2F11krt0h334?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+    "pictures": [
+      "poi_images/POI_val_di_non_parco_giochi_cles_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 16,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Cles",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "val-di-non-parco-giochi-di-salter",
+    "name": "Parco giochi di Salter",
+    "category": "playground",
+    "address": "Salter (sopra Cles)",
+    "latitude": 46.38328949402156,
+    "longitude": 11.10632306813918,
+    "destination_id": "trentino",
+    "description": "Parco giochi di Salter è un playground situato a Salter. Val di Non Area nel verde con tavoli",
+    "website": "https://www.google.com/maps/place/Parco+giochi+di+Salter/@46.3831378,11.1037589,651m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47828fdb9e77f8c1:0xc6e4443877992c0a!8m2!3d46.3831341!4d11.1063338!16s%2Fg%2F11hqcvsyy0?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+    "pictures": [
+      "poi_images/POI_val_di_non_parco_giochi_di_salter_01.jpg"
+    ],
+    "tags": [
+      "kids",
+      "mountain",
+      "nature",
+      "outdoor",
+      "playground"
+    ],
+    "priority": 17,
+    "source": "parchi_giochi_val_di_sole_e_dintorni_completo.json",
+    "age_min": 2,
+    "age_max": 14,
+    "location": "Salter",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "peschiera-del-garda-ristorante-pizzeria-da-mariano",
+    "name": "Ristorante Pizzeria Da Mariano",
+    "category": "restaurant",
+    "address": "Peschiera del Garda",
+    "latitude": 45.43248519892487,
+    "longitude": 10.680568725841733,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Ristorante Pizzeria Da Mariano è un ristorante pizzeria con area giochi esterna.",
+    "website": "https://www.damariano.com/",
+    "pictures": [
+      "poi_images/POI_peschiera_del_garda_ristorante_pizzeria_da_mariano_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "garda",
+      "lake",
+      "restaurant"
+    ],
+    "priority": 1,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Peschiera del Garda",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "peschiera-del-garda-ristorante-le-magnolie",
+    "name": "Ristorante Le Magnolie",
+    "category": "restaurant",
+    "address": "Peschiera del Garda",
+    "latitude": 45.44181849521264,
+    "longitude": 10.69916319700585,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Piatti di terra e mare in un ristorante-pizzeria dal clima rilassato, con giardino ebarea giochi per bambini esterna.",
+    "website": "",
+    "pictures": [
+      "poi_images/POI_peschiera_del_garda_ristorante_le_magnolie_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "garda",
+      "lake",
+      "restaurant"
+    ],
+    "priority": 2,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Peschiera del Garda",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "lazise-agriturismo-le-tese",
+    "name": "Agriturismo Le Tese",
+    "category": "restaurant",
+    "address": "Lazise",
+    "latitude": 45.468198265528706,
+    "longitude": 10.765696008643449,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Agriturismo Le Tese è informale circondato da uliveti, presente area giochi esterna",
+    "website": "https://www.letese.it/",
+    "pictures": [
+      "poi_images/POI_lazise_agriturismo_le_tese_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "garda",
+      "lake",
+      "restaurant"
+    ],
+    "priority": 3,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Lazise",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "lazise-ristorante-due-laghi",
+    "name": "Ristorante Due Laghi",
+    "category": "restaurant",
+    "address": "Lazise",
+    "latitude": 45.49451230370307,
+    "longitude": 10.766692783517838,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Ristorante Due Laghi è un ristorante,vicino a laghetti artificiali, con area giochi esterna.",
+    "website": "https://ristorantepizzeria2laghi.eatbu.com/",
+    "pictures": [
+      "poi_images/POI_lazise_ristorante_due_laghi_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "garda",
+      "lake",
+      "restaurant"
+    ],
+    "priority": 4,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Lazise",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "salionze-la-littorina-del-mincio",
+    "name": "La Littorina del Mincio",
+    "category": "restaurant",
+    "address": "Salionze",
+    "latitude": 45.41416091360849,
+    "longitude": 10.71738119700429,
+    "destination_id": "verona_provincia",
+    "description": "La Littorina del Mincio è un’oasi immersa nel verde lungo la ciclabile del Mincio, con ristorante, area relax e ampi spazi per famiglie. È il punto ideale per mangiare, noleggiare bici e godersi natura e tranquillità.",
+    "website": "http://www.lalittorinadelmincio.it/",
+    "pictures": [
+      "poi_images/POI_salionze_la_littorina_del_mincio_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "restaurant",
+      "verona"
+    ],
+    "priority": 5,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Salionze",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "lazise-safari-giro-pizza",
+    "name": "Safari Giro Pizza",
+    "category": "restaurant",
+    "address": "Lazise",
+    "latitude": 45.478685234029015,
+    "longitude": 10.727545912353413,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Safari Giro Pizza, zona giochi, ambiente tematizzato, ottimo per famiglie.",
+    "website": "https://www.canevaworld.it/safari-pizza-restaurant.html",
+    "pictures": [
+      "poi_images/POI_lazise_safari_giro_pizza_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "garda",
+      "lake",
+      "restaurant"
+    ],
+    "priority": 6,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Lazise",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "bardolino-locanda-al-cardellino",
+    "name": "Locanda Al Cardellino",
+    "category": "restaurant",
+    "address": "Cisano-Bardolino",
+    "latitude": 45.52537142935072,
+    "longitude": 10.73185815097377,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Locanda Al Cardellino è un ristorante, con area giochi esterna.",
+    "website": "https://www.alcardellino.it/",
+    "pictures": [
+      "poi_images/POI_bardolino_locanda_al_cardellino_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "garda",
+      "lake",
+      "restaurant"
+    ],
+    "priority": 7,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Cisano-Bardolino",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "bardolino-ristorante-la-dacia",
+    "name": "Ristorante La Dacia",
+    "category": "restaurant",
+    "address": "Bardolino",
+    "latitude": 45.571192670241416,
+    "longitude": 10.738802965900872,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Ristorante La Dacia è un ristorante, con giardino ed area giochi esterno.",
+    "website": "http://www.ristoranteladacia.com/",
+    "pictures": [
+      "poi_images/POI_bardolino_ristorante_la_dacia_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "garda",
+      "lake",
+      "restaurant"
+    ],
+    "priority": 8,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Bardolino",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "bardolino-speck-stube-bardolino",
+    "name": "Speck Stube Bardolino",
+    "category": "restaurant",
+    "address": "Bardolino",
+    "latitude": 45.54780355841103,
+    "longitude": 10.724455097011566,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Pizze classiche, primi ai frutti di mare e carne alla griglia in una taverna rustica con veranda e terrazza, area giochi esterna.",
+    "website": "https://www.speckstube.eu/",
+    "pictures": [
+      "poi_images/POI_bardolino_speck_stube_bardolino_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "garda",
+      "lake",
+      "restaurant"
+    ],
+    "priority": 9,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Bardolino",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "bussolengo-ristorante-la-cascina",
+    "name": "Ristorante La Cascina",
+    "category": "restaurant",
+    "address": "Bussolengo",
+    "latitude": 45.443773477852545,
+    "longitude": 10.866538705703793,
+    "destination_id": "verona_provincia",
+    "description": "Ristorante La Cascina è un ristorante pizzeria, con giardino ed area giochi esterna.",
+    "website": "https://lacascinaristorantepizzeria.it/",
+    "pictures": [
+      "poi_images/POI_bussolengo_ristorante_la_cascina_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "restaurant",
+      "verona"
+    ],
+    "priority": 10,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Bussolengo",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "pescantina-ristorante-la-tonda",
+    "name": "Ristorante La Tonda",
+    "category": "restaurant",
+    "address": "Via Brennero, 10, 37026 Pescantina VR",
+    "latitude": 45.49406144632334,
+    "longitude": 10.877969197008696,
+    "destination_id": "verona_provincia",
+    "description": "Ristorante La Tonda è un restaurant situato a Pescantina. Ristorante Pizzeria con area giochi interna, ben attrezzata.",
+    "website": "",
+    "pictures": [
+      "poi_images/POI_pescantina_ristorante_la_tonda_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "fishing",
+      "food",
+      "lake",
+      "restaurant",
+      "tradition",
+      "verona"
+    ],
+    "priority": 11,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Pescantina",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "caprino-veronese-agriturismo-fattoria-monte-baldo",
+    "name": "Agriturismo Fattoria Monte Baldo",
+    "category": "restaurant",
+    "address": "Caprino Veronese",
+    "latitude": 45.62873898335999,
+    "longitude": 10.821887019526505,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Agriturismo Fattoria Monte Baldo, ottima vista, giardino ed area giochi esterna.",
+    "website": "http://www.fattoriamontebaldo.it/",
+    "pictures": [
+      "poi_images/POI_caprino_veronese_agriturismo_fattoria_monte_baldo_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "garda",
+      "lake",
+      "restaurant"
+    ],
+    "priority": 12,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Caprino Veronese",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "caprino-veronese-agriturismo-corte-dei-fiori",
+    "name": "Agriturismo Corte dei Fiori",
+    "category": "restaurant",
+    "address": "Str. delle Caselle, 173, 37013 Pesina VR",
+    "latitude": 45.59772016869754,
+    "longitude": 10.746577821815713,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Agriturismo Corte dei Fiori è un agriturismo,con area giochi esterna e piscina.",
+    "website": "http://www.agriturismocortedeifiori.com/",
+    "pictures": [
+      "poi_images/POI_caprino_veronese_agriturismo_corte_dei_fiori_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "garda",
+      "lake",
+      "restaurant"
+    ],
+    "priority": 13,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Caprino Veronese",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "santanna-dalfaedo-bosco-allegro-corrado-benedetti",
+    "name": "Bosco Allegro (Corrado Benedetti)",
+    "category": "park",
+    "address": "Sant’Anna d’Alfaedo",
+    "latitude": 45.58922746951141,
+    "longitude": 10.967846210504728,
+    "destination_id": "verona_provincia",
+    "description": "Bosco Allegro è un situato a Sant’Anna d’Alfaedo,area verde attrezzata immersa nella natura, aperta tutti i giorni a 750 metri di altitudine",
+    "website": "https://www.corradobenedetti.it/bosco-allegro/",
+    "pictures": [
+      "poi_images/POI_santanna_dalfaedo_bosco_allegro_corrado_benedetti_01.jpg"
+    ],
+    "tags": [
+      "forest",
+      "nature",
+      "outdoor",
+      "park",
+      "verona"
+    ],
+    "priority": 14,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": 0,
+    "age_max": 12,
+    "location": "Sant’Anna d’Alfaedo",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "parona-verona-nord-signorvino-verona-parona",
+    "name": "Signorvino Verona Parona",
+    "category": "restaurant",
+    "address": "Verona Parona",
+    "latitude": 45.46661529702561,
+    "longitude": 10.960975712352738,
+    "destination_id": "verona_provincia",
+    "description": "Enoteca con ampia selezione di vini e cucina italiana, ideale per pranzi, aperitivi e cene. Atmosfera accogliente e moderna. Parco giochi esterno.",
+    "website": "https://www.signorvino.com/it/negozi/veneto/verona/verona_via_preare_15/B106.html?utm_source=google&utm_medium=organic&utm_campaign=local&utm_term=B106&y_source=1_MTQ4Njg4NjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "pictures": [
+      "poi_images/POI_parona_verona_nord_signorvino_verona_parona_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "restaurant",
+      "tradition",
+      "verona",
+      "wine"
+    ],
+    "priority": 15,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Verona Parona",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "verona-benvenuto-family-restaurant",
+    "name": "Benvenuto Family Restaurant",
+    "category": "restaurant",
+    "address": "Verona (zona sud-est)",
+    "latitude": 45.439809666781564,
+    "longitude": 10.953463268169289,
+    "destination_id": "verona_provincia",
+    "description": "Benvenuto Family Restaurant è un ristorante, con area giochi interna",
+    "website": "http://www.benvenutofamilyrestaurant.it/",
+    "pictures": [
+      "poi_images/POI_verona_benvenuto_family_restaurant_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "restaurant",
+      "verona"
+    ],
+    "priority": 16,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Verona",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "isola-rizza-ristorante-pizzeria-malaspina",
+    "name": "Ristorante Pizzeria Malaspina",
+    "category": "restaurant",
+    "address": "Isola Rizza",
+    "latitude": 45.289128221815034,
+    "longitude": 11.200003868161163,
+    "destination_id": "verona_provincia",
+    "description": "Ristorante Pizzeria Malaspina, ha un'area interna dedicara ai bambini.",
+    "website": "http://www.pizzeriamalaspina.com/",
+    "pictures": [
+      "poi_images/POI_isola_rizza_ristorante_pizzeria_malaspina_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "restaurant",
+      "verona"
+    ],
+    "priority": 18,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Isola Rizza",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "arcole-ristorante-pizzeria-la-staffa",
+    "name": "Ristorante Pizzeria La Staffa",
+    "category": "restaurant",
+    "address": "Arcole",
+    "latitude": 45.373666944281716,
+    "longitude": 11.287080783511307,
+    "destination_id": "verona_provincia",
+    "description": "Ristorante Pizzeria La Staffa è un restaurant situato a Arcole. Ristorante Pizzeria con area giochi interna.",
+    "website": "",
+    "pictures": [
+      "poi_images/POI_arcole_ristorante_pizzeria_la_staffa_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "restaurant",
+      "verona"
+    ],
+    "priority": 19,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Arcole",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "san-bonifacio-agriturismo-la-borina",
+    "name": "Agriturismo La Borina",
+    "category": "restaurant",
+    "address": "San Bonifacio",
+    "latitude": 45.4131646837278,
+    "longitude": 11.306905754676977,
+    "destination_id": "verona_provincia",
+    "description": "Agriturismo La Borina è un restaurant situato a San Bonifacio. Agriturismo con fattoria didattica.",
+    "website": "",
+    "pictures": [
+      "poi_images/POI_san_bonifacio_agriturismo_la_borina_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "restaurant",
+      "verona"
+    ],
+    "priority": 20,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "San Bonifacio",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "peschiera-del-garda-midas-stube",
+    "name": "Mida’s Stube",
+    "category": "restaurant",
+    "address": "Peschiera del Garda",
+    "latitude": 45.44449672721773,
+    "longitude": 10.694711097005943,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Mida’s Stube è un restaurant situato a Peschiera del Garda. Birreria, Ristorante, con area giochi interna.",
+    "website": "",
+    "pictures": [
+      "poi_images/POI_peschiera_del_garda_midas_stube_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "garda",
+      "lake",
+      "restaurant"
+    ],
+    "priority": 22,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Peschiera del Garda",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "san-giovanni-lupatoto-ristorante-il-torchio",
+    "name": "Ristorante Il Torchio",
+    "category": "restaurant",
+    "address": "San Giovanni Lupatoto",
+    "latitude": 45.347628209309235,
+    "longitude": 11.024677612346277,
+    "destination_id": "verona_provincia",
+    "description": "Ristorante Il Torchio è un ristorante, con piccola area giochi esterna.",
+    "website": "http://www.iltorchiolenoci.com/",
+    "pictures": [
+      "poi_images/POI_san_giovanni_lupatoto_ristorante_il_torchio_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "restaurant",
+      "verona"
+    ],
+    "priority": 23,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "San Giovanni Lupatoto",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "valeggio-sul-mincio-agriturismo-ca-del-gal",
+    "name": "Agriturismo Ca’ del Gal",
+    "category": "restaurant",
+    "address": "Valeggio sul Mincio",
+    "latitude": 45.37474282596135,
+    "longitude": 10.741555639329404,
+    "destination_id": "verona_provincia",
+    "description": "Agriturismo Ca’ del Gal è un agriturismo, con area giochi esterna e piscina.",
+    "website": "http://www.agriturismocadelgal.com/",
+    "pictures": [
+      "poi_images/POI_valeggio_sul_mincio_agriturismo_ca_del_gal_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "restaurant",
+      "verona"
+    ],
+    "priority": 24,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Valeggio sul Mincio",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "verona-est-agriturismo-spigolo",
+    "name": "Agriturismo Spigolo",
+    "category": "restaurant",
+    "address": "Verona est",
+    "latitude": 45.49379844310961,
+    "longitude": 10.99312012584509,
+    "destination_id": "verona_provincia",
+    "description": "Agriturismo Spigolo, fattoria didattica, presenti molti animali.",
+    "website": "http://www.agriturismospigolo.com/",
+    "pictures": [
+      "poi_images/POI_verona_est_agriturismo_spigolo_01.jpg"
+    ],
+    "tags": [
+      "family",
+      "food",
+      "restaurant",
+      "verona"
+    ],
+    "priority": 25,
+    "source": "ristoranti_family_garda_verona_completo (1).json",
+    "age_min": null,
+    "age_max": null,
+    "location": "Verona est",
+    "macro_category": [
+      "family",
+      "food"
+    ]
+  },
+  {
+    "id": "parco_grotta_cascata_varone",
+    "name": "Parco Grotta Cascata Varone",
+    "category": "park",
+    "address": "Località Le Foci 3, 38060 Tenno (TN)",
+    "latitude": 45.91148463345617,
+    "longitude": 10.834577427663117,
+    "destination_id": "lago_di_garda_trentino",
+    "description": "Parco Grotta Cascata Varone è un park situato a Tenno. Parco naturale con gola e cascata scenografica, perfetto per famiglie.",
+    "website": "https://www.google.com/maps/place/Parco+Grotta+Cascata+Varone/",
+    "pictures": [
+      "poi_images/POI_parco_grotta_cascata_varone_01.jpg"
+    ],
+    "tags": [
+      "cave",
+      "garda",
+      "lake",
+      "mountain",
+      "nature",
+      "outdoor",
+      "park",
+      "waterfall"
+    ],
+    "priority": 99,
+    "source": "manual",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Tenno",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "verona-museo-di-castelvecchio",
+    "name": "Museo di Castelvecchio",
+    "category": "museum",
+    "address": "Corso Castelvecchio, 2, 37121 Verona (VR)",
+    "latitude": 45.43979935504587,
+    "longitude": 10.987652368082184,
+    "destination_id": "verona_provincia",
+    "description": "Museo di Castelvecchio è un museo situato a Verona. È dedicato alla arte e cultura, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.it/maps/place/Museo+di+Castelvecchio",
+    "pictures": [
+      "poi_images/POI_verona_museo_di_castelvecchio_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 50,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Verona",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-ma-museo-africano",
+    "name": "Ma - Museo Africano",
+    "category": "museum",
+    "address": "Vicolo Pozzo, 1, 37129 Verona (VR)",
+    "latitude": 45.448290273771185,
+    "longitude": 11.006277627580017,
+    "destination_id": "verona_provincia",
+    "description": "Ma - Museo Africano è un museo situato a Verona. È dedicato alla storia locale, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.it/maps/place/Ma+-+Museo+Africano",
+    "pictures": [
+      "poi_images/POI_verona_ma_museo_africano_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "history",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 51,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Verona",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-museo-archeologico-teatro-romano",
+    "name": "Museo Archeologico al Teatro Romano",
+    "category": "museum",
+    "address": "Rigaste Redentore, 2, 37129 Verona (VR)",
+    "latitude": 45.44756769215154,
+    "longitude": 11.001599854915003,
+    "destination_id": "verona_provincia",
+    "description": "Museo Archeologico al Teatro Romano è un museo situato a Verona. È dedicato alla archeologia del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.it/maps/place/Museo+Archeologico+al+Teatro+Romano",
+    "pictures": [
+      "poi_images/POI_verona_museo_archeologico_teatro_romano_01.jpg"
+    ],
+    "tags": [
+      "archaeology",
+      "culture",
+      "history",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 52,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Verona",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-museo-archeologico-nazionale",
+    "name": "Museo Archeologico Nazionale di Verona",
+    "category": "museum",
+    "address": "Stradone S. Tomaso, 3, 37129 Verona (VR)",
+    "latitude": 45.44259282753004,
+    "longitude": 11.00231472626409,
+    "destination_id": "verona_provincia",
+    "description": "Museo Archeologico Nazionale di Verona è un museo situato a Verona. È dedicato alla archeologia del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.it/maps/place/Museo+Archeologico+Nazionale+di+Verona",
+    "pictures": [
+      "poi_images/POI_verona_museo_archeologico_nazionale_01.jpg"
+    ],
+    "tags": [
+      "archaeology",
+      "culture",
+      "history",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 53,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Verona",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-museo-della-radio",
+    "name": "Museo della Radio",
+    "category": "museum",
+    "address": "Piazza Bra, 1, 37122 Verona (VR)",
+    "latitude": 45.43780719353034,
+    "longitude": 10.993581585322788,
+    "destination_id": "verona_provincia",
+    "description": "Museo della Radio è un museo situato a Verona. È dedicato alla storia locale, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.it/maps/place/Museo+della+Radio",
+    "pictures": [
+      "poi_images/POI_verona_museo_della_radio_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 54,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Verona",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-museo-lapidario-maffeiano",
+    "name": "Museo Lapidario Maffeiano",
+    "category": "museum",
+    "address": "Piazza Bra, 28, 37121 Verona (VR)",
+    "latitude": 45.43869345265674,
+    "longitude": 10.991380256348585,
+    "destination_id": "verona_provincia",
+    "description": "Museo Lapidario Maffeiano è un museo situato a Verona. È dedicato alla storia locale, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.it/maps/place/Museo+Lapidario+Maffeiano",
+    "pictures": [
+      "poi_images/POI_verona_museo_lapidario_maffeiano_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 55,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Verona",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-museo-di-storia-naturale",
+    "name": "Museo di Storia Naturale",
+    "category": "museum",
+    "address": "Lungadige Porta Vittoria, 9, 37129 Verona (VR)",
+    "latitude": 45.43875672102545,
+    "longitude": 11.00221370261444,
+    "destination_id": "verona_provincia",
+    "description": "Museo di Storia Naturale è un museo situato a Verona. È dedicato alla storia locale, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. La visita è semplice e adatta anche alle famiglie, grazie a spazi interni confortevoli e contenuti immediati.",
+    "website": "https://www.google.it/maps/place/Museo+di+Storia+Naturale",
+    "pictures": [
+      "poi_images/POI_verona_museo_di_storia_naturale_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 56,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Verona",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-casa-di-giulietta",
+    "name": "Casa di Giulietta",
+    "category": "museum",
+    "address": "Via Cappello, 23, 37121 Verona (VR)",
+    "latitude": 45.44225779987173,
+    "longitude": 10.998686831313698,
+    "destination_id": "verona_provincia",
+    "description": "Casa di Giulietta è un museo situato a Verona. È dedicato alla storia e cultura del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio. Casa del '300 in stile gotico con museo e con il balcone in pietra reso famoso da Shakespeare.",
+    "website": "https://www.google.it/maps/place/Casa+di+Giulietta",
+    "pictures": [
+      "poi_images/POI_verona_casa_di_giulietta_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "history",
+      "house",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 57,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Verona",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-area-archeologica-corte-sgarzerie",
+    "name": "Area archeologica di Corte Sgarzerie",
+    "category": "museum",
+    "address": "Corte Sgarzerie, 8, 37121 Verona (VR)",
+    "latitude": 45.443675695946204,
+    "longitude": 10.995872017230981,
+    "destination_id": "verona_provincia",
+    "description": "Area archeologica di Corte Sgarzerie è un museo situato a Verona. È dedicato alla archeologia del territorio, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio.Sito archeologico con resti di tempio romano, criptoportico e strada pedonale.",
+    "website": "https://www.google.it/maps/place/Area+archeologica+di+Corte+Sgarzerie",
+    "pictures": [
+      "poi_images/POI_verona_area_archeologica_corte_sgarzerie_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 58,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Verona",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-museo-paleontologico-preistorico-sant-anna-alfaedo",
+    "name": "Museo paleontologico e preistorico di Sant'Anna d'Alfaedo",
+    "category": "museum",
+    "address": "Piazza dalla Bona Gian Attilio, 12, 37020 Sant'Anna d'Alfaedo (VR)",
+    "latitude": 45.62839732112662,
+    "longitude": 10.953918871100742,
+    "destination_id": "verona_provincia",
+    "description": "Museo paleontologico e preistorico di Sant'Anna d'Alfaedo è un museo situato a Sant'Anna d'Alfaedo. È dedicato alla storia locale, con collezioni e sezioni che aiutano a comprendere meglio l'identità del territorio della Lessinia,su due piani.",
+    "website": "https://www.google.it/maps/place/Museo+paleontologico+e+preistorico+di+Sant'Anna+d'Alfaedo",
+    "pictures": [
+      "poi_images/POI_verona_museo_paleontologico_preistorico_sant_anna_alfaedo_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 100,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Sant'Anna d'Alfaedo",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-mulino-di-bellori",
+    "name": "Mulino di Bellori",
+    "category": "museum",
+    "address": "Via Bellori, 35, 37023 Stallavena-Lugo (VR)",
+    "latitude": 45.5902725136008,
+    "longitude": 10.990990277357062,
+    "destination_id": "verona_provincia",
+    "description": "Mulino di Bellori è un museo situato a Stallavena-Lugo. È dedicato alla storia locale, mulino del 1400, di proprietà del comune di Grezzana ma sostenuti dai volontari che fanno da guida.",
+    "website": "https://www.google.it/maps/place/Mulino+di+Bellori",
+    "pictures": [
+      "poi_images/POI_verona_mulino_di_bellori_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 101,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Stallavena-Lugo",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-museo-ergologico-la-giassara",
+    "name": "Museo Ergologico \"La Giassara\"",
+    "category": "museum",
+    "address": "Via Bocca di Vento, 5, 37020 Cerro Veronese (VR)",
+    "latitude": 45.58258392381274,
+    "longitude": 11.04334699632517,
+    "destination_id": "verona_provincia",
+    "description": "Museo Ergologico \"La Giassara\" è un museo situato a Cerro Veronese. È dedicato alla storia locale.",
+    "website": "https://www.visitlessinia.eu/it/la-giassara-di-cerro-veronese-541",
+    "pictures": [
+      "poi_images/POI_verona_museo_ergologico_la_giassara_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 102,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Cerro Veronese",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-museo-del-bosco-rovere-veronese",
+    "name": "Museo del Bosco",
+    "category": "museum",
+    "address": "Contrada Vajo, 37028 Roverè Veronese (VR)",
+    "latitude": 45.59747400356957,
+    "longitude": 11.073403204002114,
+    "destination_id": "verona_provincia",
+    "description": "Museo del Bosco è un museo situato a Roverè Veronese. Piccolo sentiero risistemato seguendo le antiche mulattiere. Ci sono quadri di un artista locale. Alla fine del percorso ci si può rilassare per un pic nic",
+    "website": "https://www.google.it/maps/place/Museo+del+Bosco",
+    "pictures": [
+      "poi_images/POI_verona_museo_del_bosco_rovere_veronese_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "forest",
+      "indoor",
+      "museum",
+      "nature",
+      "outdoor",
+      "verona"
+    ],
+    "priority": 103,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Roverè Veronese",
+    "environment": "mixed",
+    "macro_category": [
+      "culture",
+      "mixed",
+      "nature"
+    ]
+  },
+  {
+    "id": "verona-grotta-di-monte-capriolo",
+    "name": "Grotta di Monte Capriolo",
+    "category": "museum",
+    "address": "Contrada Capraia, 37028 Roverè Veronese (VR)",
+    "latitude": 45.59284507296303,
+    "longitude": 11.078501286953882,
+    "destination_id": "verona_provincia",
+    "description": "Grotta di Monte Capriolo è un museo situato a Roverè Veronese.  È una cavità suborizzontale che si apre a metri 1005 slm ed è una tra le più belle realtà del Parco Naturale Regionale della Lessinia. Consigliato abbigliamento adeguato.",
+    "website": "https://www.google.it/maps/place/Grotta+di+Monte+Capriolo+nota+anche+come+Grotta+di+Rover%C3%A8+1000+o+Grotta+del+Sogno",
+    "pictures": [
+      "poi_images/POI_verona_grotta_di_monte_capriolo_01.jpg"
+    ],
+    "tags": [
+      "cave",
+      "culture",
+      "indoor",
+      "museum",
+      "nature",
+      "science",
+      "verona"
+    ],
+    "priority": 104,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Roverè Veronese",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor",
+      "nature"
+    ]
+  },
+  {
+    "id": "verona-museo-dei-trombini",
+    "name": "Museo dei Trombini",
+    "category": "museum",
+    "address": "Piazza Vittorio Veneto, 37030 San Bortolo (VR)",
+    "latitude": 45.60824724024361,
+    "longitude": 11.179350615720915,
+    "destination_id": "verona_provincia",
+    "description": "Museo dei Trombini è un museo situato a San Bortolo. Piccolo museo, dedicato a Gianni Faè, appassionato studioso della storia cimbra.",
+    "website": "https://www.google.it/maps/place/Museo+dei+Trombini",
+    "pictures": [
+      "poi_images/POI_verona_museo_dei_trombini_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "indoor",
+      "museum",
+      "verona"
+    ],
+    "priority": 105,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "San Bortolo",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-museo-dei-fossili-bolca",
+    "name": "Museo dei Fossili di Bolca",
+    "category": "museum",
+    "address": "Via S. Giovanni Battista, 37030 Bolca (VR)",
+    "latitude": 45.595396404147614,
+    "longitude": 11.209820510227207,
+    "destination_id": "verona_provincia",
+    "description": "Museo dei Fossili di Bolca è un museo situato a Bolca. Piccolo museo, disposto su due piani con ascensore a disposizione, molto interessante. Collezione di fossili ritrovati nella pesciaia.",
+    "website": "https://www.google.it/maps/place/Museo+dei+Fossili+di+Bolca",
+    "pictures": [
+      "poi_images/POI_verona_museo_dei_fossili_bolca_01.jpg"
+    ],
+    "tags": [
+      "culture",
+      "indoor",
+      "museum",
+      "nature",
+      "science",
+      "verona"
+    ],
+    "priority": 106,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Bolca",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor",
+      "nature"
+    ]
+  },
+  {
+    "id": "verona-osservatorio-astronomico-monte-baldo",
+    "name": "Osservatorio Astronomico Monte Baldo \"Angelo Gelodi\"",
+    "category": "observatory",
+    "address": "Località Novezzina, 37020 Ferrara di Monte Baldo (VR)",
+    "latitude": 45.69779139847795,
+    "longitude": 10.858965110516346,
+    "destination_id": "verona_provincia",
+    "description": "Osservatorio Astronomico Monte Baldo \"Angelo Gelodi\" è un observatory situato a Ferrara di Monte Baldo. L’Osservatorio Astronomico Monte Baldo, unico osservatorio pubblico della provincia di Verona, è di proprietà del Comune di Ferrara di Monte Baldo ed è gestito dal Circolo Astrofili Veronesi.",
+    "website": "http://www.osservatoriomontebaldo.it/",
+    "pictures": [
+      "poi_images/POI_verona_osservatorio_astronomico_monte_baldo_01.jpg"
+    ],
+    "tags": [
+      "indoor",
+      "observatory",
+      "science",
+      "verona"
+    ],
+    "priority": 107,
+    "source": "musei_verona_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Ferrara di Monte Baldo",
+    "environment": "indoor",
+    "macro_category": [
+      "indoor"
+    ]
+  },
+  {
+    "id": "trentino-osservatorio-astronomico-monte-zugna",
+    "name": "Osservatorio astronomico Monte Zugna",
+    "category": "observatory",
+    "address": "Rifugio Monte Zugna, 26, 38068 Zugna (TN)",
+    "latitude": 45.807447818486494,
+    "longitude": 11.058296148980533,
+    "destination_id": "trentino",
+    "description": "Osservatorio astronomico Monte Zugna è un observatory situato a Zugna. E' aperto tutto l'anno, durante gli eventi e su prenotazione.",
+    "website": "https://www.fondazionemcr.it/",
+    "pictures": [
+      "poi_images/POI_trentino_osservatorio_astronomico_monte_zugna_01.jpg"
+    ],
+    "tags": [
+      "indoor",
+      "mountain",
+      "nature",
+      "observatory",
+      "science"
+    ],
+    "priority": 108,
+    "source": "osservatori_trentino_manual_add.json",
+    "age_min": 3,
+    "age_max": 14,
+    "location": "Zugna",
+    "environment": "indoor",
+    "macro_category": [
+      "indoor",
+      "nature"
+    ]
+  },
+  {
+    "id": "garda-veneto-parco-natura-viva",
+    "name": "Parco Natura Viva",
+    "category": "park",
+    "address": "Bussolengo (VR)",
+    "latitude": 45.480204639655916,
+    "longitude": 10.798011811248262,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco Natura Viva è uno zoo e safari park con parco faunistico senza auto, centro tutela animale e un'area con repliche di dinosauri a grandezza naturale. Ideale per famiglie e bambini appassionati di animali e natura.",
+    "website": "https://www.parconaturaviva.it/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_parco_natura_viva_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "lake",
+      "nature",
+      "outdoor",
+      "park",
+      "animals",
+      "zoo"
+    ],
+    "priority": 25,
+    "source": "manual_add_parco_natura_viva.json",
+    "age_min": 2,
+    "age_max": 99,
+    "location": "Bussolengo",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor",
+      "animals"
+    ]
+  },
+  {
+    "id": "verona-provincia-museo-nicolis",
+    "name": "Museo Nicolis",
+    "category": "museum",
+    "address": "V.le Postumia, 71, 37069 Villafranca di Verona VR",
+    "latitude": 45.368370585019136,
+    "longitude": 10.866833110120924,
+    "destination_id": "verona_provincia",
+    "description": "Museo che espone una collezione di auto, bici e moto d'epoca, oltre a fotocamere e macchine da scrivere. Perfetto per famiglie e appassionati di motori e oggetti d'epoca.",
+    "website": "http://www.museonicolis.com/",
+    "pictures": [
+      "poi_images/POI_verona_provincia_museo_nicolis_01.jpg"
+    ],
+    "tags": [
+      "verona",
+      "kids",
+      "culture",
+      "museum",
+      "indoor",
+      "cars",
+      "history"
+    ],
+    "priority": 25,
+    "source": "manual_add_museo_nicolis.json",
+    "age_min": 2,
+    "age_max": 99,
+    "location": "Villafranca di Verona",
+    "environment": "indoor",
+    "macro_category": [
+      "culture",
+      "indoor",
+      "kids"
+    ]
+  },
+  {
+    "id": "verona-provincia-hyperspace-trampoline-park",
+    "name": "Hyperspace Trampoline Parks",
+    "category": "adventure_park",
+    "address": "Via Monte Carega, 10, 37057 San Giovanni Lupatoto VR",
+    "latitude": 45.399474932139114,
+    "longitude": 11.02560348352056,
+    "destination_id": "verona_provincia",
+    "description": "Una palestra di tappeti elastici per chi vuole vivere un’esperienza unica. Perfetta per bambini e ragazzi che amano saltare, correre e divertirsi in totale sicurezza.",
+    "website": "https://www.hyperspaceparks.com/sede/hyperspace-verona/?utm_source=google&utm_medium=organic&utm_campaign=vr_gmb",
+    "pictures": [
+      "poi_images/POI_verona_provincia_hyperspace_trampoline_park_01.jpg"
+    ],
+    "tags": [
+      "verona",
+      "kids",
+      "sport",
+      "indoor",
+      "trampoline",
+      "fun"
+    ],
+    "priority": 25,
+    "source": "manual_add_hyperspace.json",
+    "age_min": 3,
+    "age_max": 99,
+    "location": "San Giovanni Lupatoto",
+    "environment": "indoor",
+    "macro_category": [
+      "kids",
+      "sport",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-provincia-king-rock",
+    "name": "King Rock",
+    "category": "adventure_park",
+    "address": "Via Ca' di Mazzè, 21, 37134 Verona VR",
+    "latitude": 45.405257411182085,
+    "longitude": 11.022068674337213,
+    "destination_id": "verona_provincia",
+    "description": "Palestra di arrampicata indoor con pareti per bambini, corsi dedicati e attività adatte alle famiglie.",
+    "website": "http://www.kingrock.it/",
+    "pictures": [
+      "poi_images/POI_verona_provincia_king_rock_01.jpg"
+    ],
+    "tags": [
+      "verona",
+      "kids",
+      "indoor",
+      "climbing",
+      "sport",
+      "fun"
+    ],
+    "priority": 25,
+    "source": "manual_add_kingrock.json",
+    "age_min": 5,
+    "age_max": 99,
+    "location": "Verona",
+    "environment": "indoor",
+    "macro_category": [
+      "kids",
+      "sport",
+      "indoor"
+    ]
+  },
+  {
+    "id": "verona-provincia-parco-giardino-sigurta",
+    "name": "Parco Giardino Sigurtà",
+    "category": "park",
+    "address": "Via Cavour, 1, 37067 Valeggio sul Mincio VR",
+    "latitude": 45.36037976542033,
+    "longitude": 10.732848341105994,
+    "destination_id": "verona_provincia",
+    "description": "Parco pubblico con laghetti, giardini di erbe officinali, labirinto e sentieri per trekking e ciclismo. Ideale per famiglie grazie agli ampi spazi verdi e percorsi facili.",
+    "website": "http://www.sigurta.it/",
+    "pictures": [
+      "poi_images/POI_verona_provincia_parco_giardino_sigurta_01.jpg"
+    ],
+    "tags": [
+      "verona",
+      "kids",
+      "nature",
+      "park",
+      "outdoor",
+      "family",
+      "lake",
+      "garden"
+    ],
+    "priority": 20,
+    "source": "manual_add_sigurta.json",
+    "age_min": 0,
+    "age_max": 99,
+    "location": "Valeggio sul Mincio",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "nature",
+      "outdoor",
+      "family"
+    ]
+  },
+  {
+    "id": "verona-provincia-parco-cascate-molina",
+    "name": "Parco delle Cascate di Molina",
+    "category": "nature",
+    "address": "37022 Fumane VR",
+    "latitude": 45.61201294247802,
+    "longitude": 10.908787985450154,
+    "destination_id": "verona_provincia",
+    "description": "Sentieri immersi nel bosco che attraversano un parco ricco di cascate, ponti e scorci naturali suggestivi. Perfetto per famiglie e bambini abituati a camminare.",
+    "website": "http://www.parcodellecascate.it/",
+    "pictures": [
+      "poi_images/POI_verona_provincia_parco_cascate_molina_01.jpg"
+    ],
+    "tags": [
+      "verona",
+      "nature",
+      "waterfall",
+      "hiking",
+      "outdoor",
+      "kids",
+      "family"
+    ],
+    "priority": 20,
+    "source": "manual_add_cascate_molina.json",
+    "age_min": 3,
+    "age_max": 99,
+    "location": "Fumane",
+    "environment": "outdoor",
+    "macro_category": [
+      "nature",
+      "outdoor",
+      "kids",
+      "family"
+    ]
+  },
+  {
+    "id": "verona-provincia-ponte-di-veja",
+    "name": "Ponte di Veja",
+    "category": "nature",
+    "address": "Località Ponte di Veja, Sant'Anna d'Alfaedo VR",
+    "latitude": 45.60817077823599,
+    "longitude": 10.970103756640624,
+    "destination_id": "verona_provincia",
+    "description": "Enorme arco naturale di roccia formato dal crollo di una cavità carsica. Uno dei più grandi d'Europa, circondato da sentieri panoramici e natura incontaminata.",
+    "website": "http://www.pontediveja.com/territorio/il-ponte-di-veja",
+    "pictures": [
+      "poi_images/POI_verona_provincia_ponte_di_veja_01.jpg"
+    ],
+    "tags": [
+      "verona",
+      "nature",
+      "outdoor",
+      "hiking",
+      "rock",
+      "geology",
+      "viewpoint",
+      "family"
+    ],
+    "priority": 22,
+    "source": "manual_add_ponte_di_veja.json",
+    "age_min": 4,
+    "age_max": 99,
+    "location": "Sant'Anna d'Alfaedo",
+    "environment": "outdoor",
+    "macro_category": [
+      "nature",
+      "outdoor",
+      "family"
+    ]
+  },
+  {
+    "id": "garda-veneto-caneva-aquapark",
+    "name": "Caneva Aquapark",
+    "category": "water_park",
+    "address": "Via Fossalta, 58, 37017 Lazise VR",
+    "latitude": 45.47793800836543,
+    "longitude": 10.727352694780947,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco acquatico per famiglie con scivoli, fiume lento, piscine e aree relax.",
+    "website": "https://www.canevaworld.it/",
+    "pictures": [
+      "poi_images/POI_garda_veneto_caneva_aquapark_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "water",
+      "fun",
+      "slides",
+      "outdoor",
+      "family",
+      "summer"
+    ],
+    "priority": 20,
+    "source": "manual_add_caneva.json",
+    "age_min": 2,
+    "age_max": 99,
+    "location": "Lazise",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "fun",
+      "outdoor",
+      "water",
+      "family"
+    ]
+  },
+  {
+    "id": "garda-veneto-movieland-park",
+    "name": "Movieland Park",
+    "category": "theme_park",
+    "address": "Via Fossalta, 58, 37017 Lazise VR",
+    "latitude": 45.476626317662316,
+    "longitude": 10.725588526737608,
+    "destination_id": "lago_di_garda_veneto",
+    "description": "Parco divertimenti a tema cinema con attrazioni e show per famiglie.",
+    "website": "https://www.canevaworld.it/movieland-the-hollywood-park.html",
+    "pictures": [
+      "poi_images/POI_garda_veneto_movieland_park_01.jpg"
+    ],
+    "tags": [
+      "garda",
+      "kids",
+      "fun",
+      "theme_park",
+      "cinema",
+      "family",
+      "outdoor",
+      "attractions"
+    ],
+    "priority": 20,
+    "source": "manual_add_movieland.json",
+    "age_min": 3,
+    "age_max": 99,
+    "location": "Lazise",
+    "environment": "outdoor",
+    "macro_category": [
+      "kids",
+      "fun",
+      "outdoor",
+      "family"
+    ]
+  },
+  {
+    "id": "verona-provincia-pepperone-restaurant",
+    "name": "Pepperone Restaurant & Sports Cafè",
+    "category": "restaurant",
+    "address": "Via Federico Garofoli, 315, 37057 San Giovanni Lupatoto VR",
+    "latitude": 45.3992849386859,
+    "longitude": 11.020660596926001,
+    "destination_id": "verona_provincia",
+    "description": "Ampio ristorante tranquillo con cimeli sportivi, hamburger, bistecche e piatti classici. Dispone di un'area giochi interna per bambini, ideale per famiglie.",
+    "website": "https://www.pepperone.com/",
+    "pictures": [
+      "poi_images/POI_verona_provincia_pepperone_restaurant_01.jpg"
+    ],
+    "tags": [
+      "verona",
+      "restaurant",
+      "kids",
+      "family",
+      "indoor",
+      "food",
+      "sports",
+      "burgers"
+    ],
+    "priority": 26,
+    "source": "manual_add_pepperone.json",
+    "age_min": null,
+    "age_max": null,
+    "location": "San Giovanni Lupatoto",
+    "environment": "indoor",
+    "macro_category": [
+      "kids",
+      "family",
+      "indoor",
+      "food"
+    ]
+  }
+]

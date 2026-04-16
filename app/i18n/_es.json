@@ -1,0 +1,51 @@
+{
+  "common": {
+    "id": "es"
+  },
+
+  "menu": {
+    "home": "Inicio",
+    "fridge": "Refrigerador",
+    "settings": "Configuración"
+  },
+
+  "home": {
+    "welcome": "Hola",
+    "hero": "¿Qué vamos a cocinar hoy?",
+    "itemsLeft": "Artículos",
+    "expiring": "Vencen pronto",
+    "expired": "vencidos",
+    "suggest": "Sugerir",
+    "groceries": "Compras",
+    "chatboxPlaceholder": "¿Qué te gustaría preparar?",
+    "selectIngredients": "Seleccionar ingredientes"
+  },
+
+  "settings": {
+    "memberSince": "Miembro desde",
+    "general": "General",
+    "info": "Información",
+    "account": "Cuenta",
+    "security": "Seguridad",
+    "subscription": "Suscripción",
+    "foodprefs": "Preferencias alimenticias",
+    "haptics": "Hápticos",
+    "notifications": "Notificaciones",
+    "language": "Idioma",
+    "t&s": "Términos y condiciones",
+    "privacypolicy": "Política de privacidad",
+    "version": "Versión",
+    "logout": "Cerrar sesión",
+    "deleteAccount": "Eliminar Cuenta",
+    "deleteAccountTitle": "Eliminar Cuenta",
+    "deleteAccountMessage": "¿Estás seguro de que quieres eliminar tu cuenta? Esta acción es permanente y no se puede deshacer. Todos tus datos serán eliminados.",
+    "deleteAccountConfirm": "Eliminar",
+    "deleteAccountCancel": "Cancelar",
+    "deleteAccountSuccess": "Cuenta Eliminada",
+    "deleteAccountSuccessMessage": "Tu cuenta ha sido eliminada exitosamente",
+    "deleteAccountError": "Error",
+    "deleteAccountErrorMessage": "No se pudo eliminar la cuenta",
+    "deleteAccountDangerZone": "Zona de Peligro",
+    "deleteAccountDescription": "Al eliminar tu cuenta, todos tus datos serán eliminados permanentemente. Esta acción no se puede deshacer."
+  }
+}

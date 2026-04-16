@@ -1,0 +1,208 @@
+[
+  {
+    "id": "lago_di_garda_lombardia",
+    "name": "Lago di Garda – Lombardia",
+    "region": "Lombardia",
+    "country": "Italia",
+    "coordinates": {
+      "latitude": 45.6049,
+      "longitude": 10.6351
+    },
+    "image": "",
+    "description": "Sponda bresciana del Lago di Garda. Borghi come Desenzano, Sirmione, Salò, Toscolano Maderno, Limone. Ideale per famiglie, spiagge attrezzate e borghi storici.",
+    "tags": [
+      "lago",
+      "famiglie",
+      "garda_lombardia"
+    ],
+    "website": "",
+    "photos": [],
+    "best_seasons": [
+      "primavera",
+      "estate"
+    ],
+    "family_friendly": true,
+    "avg_cost_level": 2,
+    "transport": {
+      "nearest_airports": [
+        "Verona (VRN)"
+      ],
+      "train_stations": [
+        "Desenzano del Garda"
+      ],
+      "recommendations": "Auto consigliata per muoversi tra i vari paesi."
+    }
+  },
+  {
+    "id": "lago_di_garda_veneto",
+    "name": "Lago di Garda – Veneto",
+    "region": "Veneto",
+    "country": "Italia",
+    "coordinates": {
+      "latitude": 45.5635,
+      "longitude": 10.72
+    },
+    "image": "",
+    "description": "Sponda veronese del Lago di Garda. Include località come Bardolino, Lazise, Garda, Peschiera, Malcesine. Vicino ai grandi parchi divertimento.",
+    "tags": [
+      "lago",
+      "famiglie",
+      "garda_veneto"
+    ],
+    "website": "",
+    "photos": [],
+    "best_seasons": [
+      "primavera",
+      "estate"
+    ],
+    "family_friendly": true,
+    "avg_cost_level": 2,
+    "transport": {
+      "nearest_airports": [
+        "Verona (VRN)"
+      ],
+      "train_stations": [
+        "Peschiera del Garda"
+      ],
+      "recommendations": "Ideale per famiglie grazie ai parchi e ai servizi."
+    }
+  },
+  {
+    "id": "lago_di_garda_trentino",
+    "name": "Lago di Garda – Trentino",
+    "region": "Trentino-Alto Adige/Südtirol",
+    "country": "Italia",
+    "coordinates": {
+      "latitude": 45.8834,
+      "longitude": 10.8383
+    },
+    "image": "",
+    "description": "Area trentina del Lago di Garda: Riva del Garda, Torbole, Arco. Perfetta per outdoor, bici e sport family–friendly.",
+    "tags": [
+      "lago",
+      "famiglie",
+      "garda_trentino",
+      "outdoor"
+    ],
+    "website": "",
+    "photos": [],
+    "best_seasons": [
+      "primavera",
+      "estate",
+      "autunno"
+    ],
+    "family_friendly": true,
+    "avg_cost_level": 2,
+    "transport": {
+      "nearest_airports": [
+        "Verona (VRN)"
+      ],
+      "train_stations": [
+        "Rovereto"
+      ],
+      "recommendations": "Ottima base per attività all'aria aperta."
+    }
+  },
+  {
+    "id": "trentino",
+    "name": "Trentino",
+    "region": "Trentino-Alto Adige/Südtirol",
+    "country": "Italia",
+    "coordinates": {
+      "latitude": 46.0697,
+      "longitude": 11.2591
+    },
+    "image": "",
+    "description": "Regione montana ricca di parchi, laghi e attività per famiglie: Andalo, Folgaria, Val di Fiemme, Val di Non.",
+    "tags": [
+      "montagna",
+      "famiglie",
+      "natura"
+    ],
+    "website": "",
+    "photos": [],
+    "best_seasons": [
+      "estate",
+      "autunno",
+      "inverno"
+    ],
+    "family_friendly": true,
+    "avg_cost_level": 2,
+    "transport": {
+      "nearest_airports": [
+        "Verona (VRN)"
+      ],
+      "train_stations": [
+        "Trento"
+      ],
+      "recommendations": "Ottimo per vacanze attive con bambini."
+    }
+  },
+  {
+    "id": "veneto",
+    "name": "Veneto",
+    "region": "Veneto",
+    "country": "Italia",
+    "coordinates": {
+      "latitude": 45.44,
+      "longitude": 10.98
+    },
+    "image": "",
+    "description": "Comprende Verona, Valeggio sul Mincio, Soave, Bussolengo e l’entroterra. Ottimo per gite in famiglia, ristoranti e borghi.",
+    "tags": [
+      "famiglie",
+      "entroterra"
+    ],
+    "website": "",
+    "photos": [],
+    "best_seasons": [
+      "primavera",
+      "autunno"
+    ],
+    "family_friendly": true,
+    "avg_cost_level": 2,
+    "transport": {
+      "nearest_airports": [
+        "Verona (VRN)"
+      ],
+      "train_stations": [
+        "Verona Porta Nuova"
+      ],
+      "recommendations": "Perfetto per abbinare città e natura."
+    }
+  },
+  {
+    "id": "verona_provincia",
+    "name": "Provincia di Verona",
+    "region": "Veneto",
+    "country": "Italia",
+    "coordinates": {
+      "latitude": 45.44,
+      "longitude": 10.99
+    },
+    "image": "",
+    "description": "Area della provincia di Verona che include la città, Valeggio sul Mincio, Borghetto, Lessinia e dintorni. Ideale per gite in famiglia tra borghi, natura, percorsi lungo il Mincio e parchi.",
+    "tags": [
+      "famiglie",
+      "entroterra",
+      "verona_provincia"
+    ],
+    "website": "",
+    "photos": [],
+    "best_seasons": [
+      "primavera",
+      "autunno"
+    ],
+    "family_friendly": true,
+    "avg_cost_level": 2,
+    "transport": {
+      "nearest_airports": [
+        "Verona (VRN)"
+      ],
+      "train_stations": [
+        "Verona Porta Nuova"
+      ],
+      "recommendations": "Base comoda per esplorare Verona, i borghi lungo il Mincio e le colline circostanti. Consigliata l'auto per muoversi tra i paesi."
+    }
+  }
+]
