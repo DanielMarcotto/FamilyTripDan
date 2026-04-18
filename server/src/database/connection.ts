@@ -1,27 +1,27 @@
-import mongoose from 'mongoose'
+import mongoose from 'mongoose';
 
 const connectDatabase = async () => {
+  try {
+    const uri = process.env.MONGODB_URI;
 
-  const uri = `mongodb+srv://${process.env.MONGODB_USERNAME}:${process.env.MONGODB_PASSWORD}${process.env.MONGODB_URI}`;
+    if (!uri) {
+      throw new Error('MONGODB_URI is not defined');
+    }
 
-  /* const uri = !process.env.DOCKER_MONGODB_URI
-  ? `mongodb+srv://${process.env.MONGODB_USERNAME}:${process.env.MONGODB_PASSWORD}@${process.env.MONGODB_URI}`
-  : process.env.DOCKER_MONGODB_URI;  // Default to local MongoDB connection */
-  
-  const conn = await mongoose.connect(uri);
-  mongoose.connection.on(
-    "error",
-    console.error.bind(console, "connection error:")
-  );
-  mongoose.connection.once("open", () =>
-    console.log(
-      `MongoDB Connected: ${conn.connection.host}`
-    )
-  );
-  
-  //console.log(`[DATABASE]   Connected - ${conn.connection.host}`);
+    const conn = await mongoose.connect(uri);
+
+    mongoose.connection.on(
+      'error',
+      console.error.bind(console, 'connection error:')
+    );
+
+    mongoose.connection.once('open', () =>
+      console.log(`MongoDB Connected: ${conn.connection.host}`)
+    );
+  } catch (error) {
+    console.error('[DATABASE] Connection failed:', error);
+    process.exit(1);
+  }
 };
 
-
-
-export default connectDatabase
+export default connectDatabase;
