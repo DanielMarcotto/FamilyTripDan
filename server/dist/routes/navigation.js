@@ -12,20 +12,15 @@ const poiCache = { data: null, loadPromise: null };
 const destinationsCache = { data: null, loadPromise: null };
 const activitiesCache = { data: null, loadPromise: null };
 const loadJSON = (cache, filePath) => tslib_1.__awaiter(void 0, void 0, void 0, function* () {
-    // Return cached data if available
     if (cache.data !== null) {
         return cache.data;
     }
-    // If already loading, wait for that promise
     if (cache.loadPromise !== null) {
         return cache.loadPromise;
     }
-    // Start loading
     cache.loadPromise = (() => tslib_1.__awaiter(void 0, void 0, void 0, function* () {
         try {
-            // Try multiple paths: dist (production) and src (development)
             let fullPath = (0, path_1.join)(__dirname, filePath);
-            // If file doesn't exist in dist, try src directory (for development with ts-node)
             if (!(0, fs_1.existsSync)(fullPath)) {
                 const srcPath = (0, path_1.join)((0, path_1.dirname)(__dirname), filePath.replace("../", ""));
                 if ((0, fs_1.existsSync)(srcPath)) {
@@ -39,7 +34,7 @@ const loadJSON = (cache, filePath) => tslib_1.__awaiter(void 0, void 0, void 0, 
         }
         catch (error) {
             console.error(`Error loading JSON file ${filePath}:`, error);
-            cache.loadPromise = null; // Reset on error
+            cache.loadPromise = null;
             throw error;
         }
     }))();
@@ -47,17 +42,17 @@ const loadJSON = (cache, filePath) => tslib_1.__awaiter(void 0, void 0, void 0, 
 });
 const getPOIData = () => tslib_1.__awaiter(void 0, void 0, void 0, function* () {
     const snapshot = yield firebase_1.db.collection("pois").get();
-    return snapshot.docs.map(doc => doc.data());
+    return snapshot.docs.map((doc) => doc.data());
 });
 const getDestinationsData = () => tslib_1.__awaiter(void 0, void 0, void 0, function* () {
     const snapshot = yield firebase_1.db.collection("destinations").get();
-    return snapshot.docs.map(doc => doc.data());
+    return snapshot.docs.map((doc) => doc.data());
 });
 const getActivitiesData = () => tslib_1.__awaiter(void 0, void 0, void 0, function* () {
     const snapshot = yield firebase_1.db.collection("activities").get();
-    return snapshot.docs.map(doc => doc.data());
+    return snapshot.docs.map((doc) => doc.data());
 });
-const PAGE_SIZE = 40; // Reduced from 2000 for better performance
+const PAGE_SIZE = 40;
 const paginate = (data, page) => {
     const start = page * PAGE_SIZE;
     const end = start + PAGE_SIZE;
@@ -65,7 +60,7 @@ const paginate = (data, page) => {
     return {
         items,
         hasMore: end < data.length,
-        total: data.length
+        total: data.length,
     };
 };
 /* POI */
@@ -75,7 +70,7 @@ router.get("/poi", (req, res) => tslib_1.__awaiter(void 0, void 0, void 0, funct
         const page = Number((_a = req.query.page) !== null && _a !== void 0 ? _a : 0);
         const poiData = yield getPOIData();
         const { items, hasMore, total } = paginate(poiData, page);
-        console.log('poiData', items, hasMore, total);
+        console.log("poiData", items, hasMore, total);
         res.status(200).json({ success: true, items, hasMore, total });
     }
     catch (error) {
@@ -159,11 +154,11 @@ router.get("/activities/:id", (req, res) => tslib_1.__awaiter(void 0, void 0, vo
 router.get("/categories", (_req, res) => tslib_1.__awaiter(void 0, void 0, void 0, function* () {
     try {
         const poiData = yield getPOIData();
-        const rawCategories = poiData.map(p => p.category);
-        const categories = Array.from(new Set(rawCategories)); // unique
+        const rawCategories = poiData.map((p) => p.category);
+        const categories = Array.from(new Set(rawCategories));
         res.status(200).json({
             success: true,
-            items: categories
+            items: categories,
         });
     }
     catch (error) {
